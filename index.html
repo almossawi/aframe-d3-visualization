@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:title" content="Visualizing in VR using A‑Frame and D3 ~ Ali Almossawi" />
+    <meta property="og:description" content="I was interested in seeing what a compelling visualization in 3D, and by extension in VR, might look like. In this demo, titled Where is Piers Morgan disliked the most?, one learns about various cities by exploring a terrain. The fake data is encoded using elevation at the city-level. Turning your head, which you can either do with a headset or by clicking and dragging your mouse, and looking at a mound of black sand provides some insight into that city." />
+    <meta property="og:image" content="http://almossawi.com/aframe-d3-visualization/images/preview.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://almossawi.com/aframe-d3-visualization/" />
+    <meta property="og:site_name" content="Visualizing in VR using A‑Frame and D3" />
+
+    <title>Visualizing in VR using A‑Frame and D3 ~ Ali Almossawi</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'>
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+
+    <link href='css/styles.css' rel='stylesheet'>
+</head>
+
+<body>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35624223-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    <img src='images/wide.png' style='width:100%' />
+    <div class='main-container'>
+        <h1>Visualizing in VR using A&#8209;Frame and D3</h1>
+        <p class='no-indent'>I was interested in seeing what a compelling visualization in 3D, and by extension in VR, might
+        look like. <a href='demo'>In this demo</a>, titled <i>Where is Piers Morgan disliked the most?</i>, one learns about
+        various cities by exploring a terrain. The fake data is encoded using elevation at the city-level. Turning your head,
+        which you can either do with a headset or by clicking and dragging your mouse, and looking at a mound of black sand
+        provides some insight into that city.</p>
+        <p class='no-indent'>The scene is done in <a href='https://aframe.io/'>A-Frame</a>, the contour plot was generated
+        in conrec.js and is updated in plain JavaScript. Everything else is D3 and JavaScript. You can take a look at
+        <a href='https://github.com/almossawi/aframe-d3-visualization'>the source code</a> to see how everything is put
+        together. Though still very much an amateur with
+        WebVR, I'm liking the great breadth of possibilities that the platform affords. If you have any questions, feel free
+        to reach out.</p>
+
+        <p></p>
+        <p class='no-indent footer'>June 7, 2016 &middot; <a href='https://www.twitter.com/alialmossawi'>@alialmossawi</a></p>
+
+        <div style="float:left;padding: 2px 14px 0 0">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="alialmossawi" data-count="none">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+    </div>
+</body>
+</html>

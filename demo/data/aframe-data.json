@@ -1,0 +1,4817 @@
+[{
+	"key": "Windsor",
+	"latitude": 51.48333,
+	"longitude": -0.6,
+	"population": 28324,
+	"elevation": 0,
+	"dislikes_normalized": 389.16134049249987
+}, {
+	"key": "Ely",
+	"latitude": 52.39964,
+	"longitude": 0.26196,
+	"population": 14265,
+	"elevation": 0,
+	"dislikes_normalized": 262.75911751670697
+}, {
+	"key": "Camberley",
+	"latitude": 51.33705,
+	"longitude": -0.74261,
+	"population": 30155,
+	"elevation": 0,
+	"dislikes_normalized": 227.03351834455412
+}, {
+	"key": "Cambridge",
+	"latitude": 52.2,
+	"longitude": 0.11667,
+	"population": 128488,
+	"elevation": 0,
+	"dislikes_normalized": 199.3146039070349
+}, {
+	"key": "Oldbury",
+	"latitude": 52.5,
+	"longitude": -2.01667,
+	"population": 10830,
+	"elevation": 0,
+	"dislikes_normalized": 197.08123518037252
+}, {
+	"key": "Huntingdon",
+	"latitude": 52.33049,
+	"longitude": -0.18651,
+	"population": 21059,
+	"elevation": 0,
+	"dislikes_normalized": 187.34713012013594
+}, {
+	"key": "Lewes",
+	"latitude": 50.87398,
+	"longitude": 0.0088,
+	"population": 16479,
+	"elevation": 0,
+	"dislikes_normalized": 186.69936962974086
+}, {
+	"key": "Tewkesbury",
+	"latitude": 51.99244,
+	"longitude": -2.1601,
+	"population": 10200,
+	"elevation": 0,
+	"dislikes_normalized": 183.43365688496078
+}, {
+	"key": "New Malden",
+	"latitude": 51.40065,
+	"longitude": -0.2617,
+	"population": 23818,
+	"elevation": 0,
+	"dislikes_normalized": 182.25902701693923
+}, {
+	"key": "Chard",
+	"latitude": 50.8727,
+	"longitude": -2.96597,
+	"population": 12275,
+	"elevation": 0,
+	"dislikes_normalized": 181.9640684364664
+}, {
+	"key": "Brighton",
+	"latitude": 50.82838,
+	"longitude": -0.13947,
+	"population": 139001,
+	"elevation": 0,
+	"dislikes_normalized": 176.83480324391485
+}, {
+	"key": "Truro",
+	"latitude": 50.26526,
+	"longitude": -5.05436,
+	"population": 22044,
+	"elevation": 0,
+	"dislikes_normalized": 173.09290859108123
+}, {
+	"key": "Oxford",
+	"latitude": 51.75222,
+	"longitude": -1.25596,
+	"population": 154566,
+	"elevation": 0,
+	"dislikes_normalized": 171.03216933409158
+}, {
+	"key": "Warwick",
+	"latitude": 52.28333,
+	"longitude": -1.58333,
+	"population": 24040,
+	"elevation": 0,
+	"dislikes_normalized": 162.34999501568683
+}, {
+	"key": "Southsea",
+	"latitude": 50.79205,
+	"longitude": -1.08593,
+	"population": 18514,
+	"elevation": 0,
+	"dislikes_normalized": 161.15852318655757
+}, {
+	"key": "Sidcup",
+	"latitude": 51.42619,
+	"longitude": 0.1036,
+	"population": 10400,
+	"elevation": 0,
+	"dislikes_normalized": 160.8895678099847
+}, {
+	"key": "Godalming",
+	"latitude": 51.1858,
+	"longitude": -0.61489,
+	"population": 22199,
+	"elevation": 0,
+	"dislikes_normalized": 160.2545156890596
+}, {
+	"key": "Buckingham",
+	"latitude": 51.99968,
+	"longitude": -0.98779,
+	"population": 12791,
+	"elevation": 0,
+	"dislikes_normalized": 159.34654323138997
+}, {
+	"key": "Nottingham",
+	"latitude": 52.9536,
+	"longitude": -1.15047,
+	"population": 246654,
+	"elevation": 0,
+	"dislikes_normalized": 157.11903259359786
+}, {
+	"key": "Manchester",
+	"latitude": 53.48095,
+	"longitude": -2.23743,
+	"population": 395515,
+	"elevation": 0,
+	"dislikes_normalized": 151.0921694301607
+}, {
+	"key": "Canterbury",
+	"latitude": 51.27904,
+	"longitude": 1.07992,
+	"population": 46978,
+	"elevation": 0,
+	"dislikes_normalized": 150.36395794273483
+}, {
+	"key": "Wisbech",
+	"latitude": 52.66622,
+	"longitude": 0.15938,
+	"population": 20200,
+	"elevation": 0,
+	"dislikes_normalized": 144.6725719652362
+}, {
+	"key": "March",
+	"latitude": 52.55131,
+	"longitude": 0.08828,
+	"population": 18442,
+	"elevation": 0,
+	"dislikes_normalized": 141.18055278710776
+}, {
+	"key": "Aberystwyth",
+	"latitude": 52.41548,
+	"longitude": -4.08292,
+	"population": 18392,
+	"elevation": 0,
+	"dislikes_normalized": 140.17336859302617
+}, {
+	"key": "Bridgwater",
+	"latitude": 51.12837,
+	"longitude": -3.00356,
+	"population": 38020,
+	"elevation": 0,
+	"dislikes_normalized": 138.10478907976736
+}, {
+	"key": "Rochester",
+	"latitude": 51.38764,
+	"longitude": 0.50546,
+	"population": 28671,
+	"elevation": 0,
+	"dislikes_normalized": 137.99772573494022
+}, {
+	"key": "Hayes",
+	"latitude": 51.51579,
+	"longitude": -0.4234,
+	"population": 50000,
+	"elevation": 0,
+	"dislikes_normalized": 134.35048326986492
+}, {
+	"key": "Spalding",
+	"latitude": 52.78709,
+	"longitude": -0.15141,
+	"population": 22357,
+	"elevation": 0,
+	"dislikes_normalized": 134.2930960972963
+}, {
+	"key": "Salisbury",
+	"latitude": 51.06931,
+	"longitude": -1.79569,
+	"population": 45600,
+	"elevation": 0,
+	"dislikes_normalized": 132.60260330036695
+}, {
+	"key": "Bideford",
+	"latitude": 51.01678,
+	"longitude": -4.20832,
+	"population": 16624,
+	"elevation": 0,
+	"dislikes_normalized": 132.16388375061746
+}, {
+	"key": "Falkirk",
+	"latitude": 56.0021,
+	"longitude": -3.78535,
+	"population": 32479,
+	"elevation": 0,
+	"dislikes_normalized": 127.27216892866585
+}, {
+	"key": "Warminster",
+	"latitude": 51.20434,
+	"longitude": -2.17873,
+	"population": 17875,
+	"elevation": 0,
+	"dislikes_normalized": 127.24938136073479
+}, {
+	"key": "Blackwood",
+	"latitude": 51.66778,
+	"longitude": -3.2075,
+	"population": 15476,
+	"elevation": 0,
+	"dislikes_normalized": 125.29597563927584
+}, {
+	"key": "Market Drayton",
+	"latitude": 52.90538,
+	"longitude": -2.49012,
+	"population": 10639,
+	"elevation": 0,
+	"dislikes_normalized": 124.77979684649125
+}, {
+	"key": "Feltham",
+	"latitude": 51.4462,
+	"longitude": -0.41388,
+	"population": 24325,
+	"elevation": 0,
+	"dislikes_normalized": 123.74132702953845
+}, {
+	"key": "Ruislip",
+	"latitude": 51.57344,
+	"longitude": -0.42341,
+	"population": 31000,
+	"elevation": 0,
+	"dislikes_normalized": 123.0634801271922
+}, {
+	"key": "Epsom",
+	"latitude": 51.3305,
+	"longitude": -0.27011,
+	"population": 27065,
+	"elevation": 0,
+	"dislikes_normalized": 122.94155937269825
+}, {
+	"key": "Newton Abbot",
+	"latitude": 50.52858,
+	"longitude": -3.61186,
+	"population": 25789,
+	"elevation": 0,
+	"dislikes_normalized": 122.26641304787667
+}, {
+	"key": "Tavistock",
+	"latitude": 50.54944,
+	"longitude": -4.14418,
+	"population": 11493,
+	"elevation": 0,
+	"dislikes_normalized": 122.00576136106898
+}, {
+	"key": "Newbury",
+	"latitude": 51.40148,
+	"longitude": -1.32471,
+	"population": 33065,
+	"elevation": 0,
+	"dislikes_normalized": 120.84946529302744
+}, {
+	"key": "Dunfermline",
+	"latitude": 56.07156,
+	"longitude": -3.45887,
+	"population": 38960,
+	"elevation": 0,
+	"dislikes_normalized": 119.30827271397345
+}, {
+	"key": "Uckfield",
+	"latitude": 50.96948,
+	"longitude": 0.09589,
+	"population": 15716,
+	"elevation": 0,
+	"dislikes_normalized": 116.21472388496471
+}, {
+	"key": "Durham",
+	"latitude": 54.77676,
+	"longitude": -1.57566,
+	"population": 45696,
+	"elevation": 0,
+	"dislikes_normalized": 115.7961302876773
+}, {
+	"key": "West Drayton",
+	"latitude": 51.5,
+	"longitude": -0.46667,
+	"population": 12156,
+	"elevation": 0,
+	"dislikes_normalized": 114.41387450116771
+}, {
+	"key": "Bath",
+	"latitude": 51.3751,
+	"longitude": -2.36172,
+	"population": 93238,
+	"elevation": 0,
+	"dislikes_normalized": 113.27168136431888
+}, {
+	"key": "Stowmarket",
+	"latitude": 52.18893,
+	"longitude": 0.99774,
+	"population": 15394,
+	"elevation": 0,
+	"dislikes_normalized": 113.19608613468168
+}, {
+	"key": "Stroud",
+	"latitude": 51.75,
+	"longitude": -2.2,
+	"population": 30600,
+	"elevation": 0,
+	"dislikes_normalized": 113.16732538802644
+}, {
+	"key": "Saint Neots",
+	"latitude": 52.21667,
+	"longitude": -0.26667,
+	"population": 15270,
+	"elevation": 0,
+	"dislikes_normalized": 113.02201453628503
+}, {
+	"key": "Carmarthen",
+	"latitude": 51.85552,
+	"longitude": -4.30535,
+	"population": 15244,
+	"elevation": 0,
+	"dislikes_normalized": 111.8951693934249
+}, {
+	"key": "Southampton",
+	"latitude": 50.90395,
+	"longitude": -1.40428,
+	"population": 246201,
+	"elevation": 0,
+	"dislikes_normalized": 111.87373582375865
+}, {
+	"key": "Sheffield",
+	"latitude": 53.38297,
+	"longitude": -1.4659,
+	"population": 447047,
+	"elevation": 0,
+	"dislikes_normalized": 111.02546699355636
+}, {
+	"key": "Hatfield",
+	"latitude": 51.76338,
+	"longitude": -0.22419,
+	"population": 27883,
+	"elevation": 0,
+	"dislikes_normalized": 110.70279893243455
+}, {
+	"key": "Letchworth",
+	"latitude": 51.97944,
+	"longitude": -0.2284,
+	"population": 33955,
+	"elevation": 0,
+	"dislikes_normalized": 110.506045596137
+}, {
+	"key": "Yeovil",
+	"latitude": 50.94159,
+	"longitude": -2.63211,
+	"population": 43733,
+	"elevation": 0,
+	"dislikes_normalized": 109.87165050994179
+}, {
+	"key": "Ascot",
+	"latitude": 51.41082,
+	"longitude": -0.6748,
+	"population": 17899,
+	"elevation": 0,
+	"dislikes_normalized": 107.54962738846409
+}, {
+	"key": "Taunton",
+	"latitude": 51.01494,
+	"longitude": -3.10293,
+	"population": 60433,
+	"elevation": 0,
+	"dislikes_normalized": 106.94503670044924
+}, {
+	"key": "Chertsey",
+	"latitude": 51.38812,
+	"longitude": -0.50782,
+	"population": 10553,
+	"elevation": 0,
+	"dislikes_normalized": 106.89144956380343
+}, {
+	"key": "Hornchurch",
+	"latitude": 51.55685,
+	"longitude": 0.21664,
+	"population": 25470,
+	"elevation": 0,
+	"dislikes_normalized": 106.64736566308252
+}, {
+	"key": "Cowdenbeath",
+	"latitude": 56.11194,
+	"longitude": -3.34426,
+	"population": 11350,
+	"elevation": 0,
+	"dislikes_normalized": 106.64294912705255
+}, {
+	"key": "Hove",
+	"latitude": 50.83088,
+	"longitude": -0.1672,
+	"population": 75174,
+	"elevation": 0,
+	"dislikes_normalized": 105.56612290004728
+}, {
+	"key": "Orpington",
+	"latitude": 51.37457,
+	"longitude": 0.09785,
+	"population": 15248,
+	"elevation": 0,
+	"dislikes_normalized": 105.32855650608325
+}, {
+	"key": "Dorking",
+	"latitude": 51.23228,
+	"longitude": -0.3338,
+	"population": 16429,
+	"elevation": 0,
+	"dislikes_normalized": 104.97414373195471
+}, {
+	"key": "Workington",
+	"latitude": 54.6425,
+	"longitude": -3.54413,
+	"population": 20618,
+	"elevation": 0,
+	"dislikes_normalized": 104.58007041155665
+}, {
+	"key": "Guildford",
+	"latitude": 51.23536,
+	"longitude": -0.57427,
+	"population": 71873,
+	"elevation": 45,
+	"dislikes_normalized": 104.57344365130093
+}, {
+	"key": "Brentford",
+	"latitude": 51.48619,
+	"longitude": -0.3083,
+	"population": 10750,
+	"elevation": 0,
+	"dislikes_normalized": 104.05444977648625
+}, {
+	"key": "Gloucester",
+	"latitude": 51.86568,
+	"longitude": -2.2431,
+	"population": 128721,
+	"elevation": 0,
+	"dislikes_normalized": 103.43986937474344
+}, {
+	"key": "Smethwick",
+	"latitude": 52.49268,
+	"longitude": -1.96745,
+	"population": 12842,
+	"elevation": 0,
+	"dislikes_normalized": 102.91006266472516
+}, {
+	"key": "Witney",
+	"latitude": 51.7836,
+	"longitude": -1.4854,
+	"population": 24103,
+	"elevation": 0,
+	"dislikes_normalized": 102.68026905666596
+}, {
+	"key": "Hexham",
+	"latitude": 54.96986,
+	"longitude": -2.104,
+	"population": 10920,
+	"elevation": 0,
+	"dislikes_normalized": 102.25269834312145
+}, {
+	"key": "Evesham",
+	"latitude": 52.09237,
+	"longitude": -1.94887,
+	"population": 22673,
+	"elevation": 0,
+	"dislikes_normalized": 102.14955848023162
+}, {
+	"key": "Surbiton",
+	"latitude": 51.39148,
+	"longitude": -0.29825,
+	"population": 38158,
+	"elevation": 0,
+	"dislikes_normalized": 102.14062044796013
+}, {
+	"key": "Lincoln",
+	"latitude": 53.22683,
+	"longitude": -0.53792,
+	"population": 89228,
+	"elevation": 0,
+	"dislikes_normalized": 101.64123436233798
+}, {
+	"key": "Selby",
+	"latitude": 53.78333,
+	"longitude": -1.06667,
+	"population": 16159,
+	"elevation": 0,
+	"dislikes_normalized": 101.51392995699646
+}, {
+	"key": "Loughborough",
+	"latitude": 52.76667,
+	"longitude": -1.2,
+	"population": 59317,
+	"elevation": 0,
+	"dislikes_normalized": 101.11860106816945
+}, {
+	"key": "Northampton",
+	"latitude": 52.25,
+	"longitude": -0.88333,
+	"population": 197322,
+	"elevation": 0,
+	"dislikes_normalized": 100.32671659513697
+}, {
+	"key": "Abingdon",
+	"latitude": 51.67109,
+	"longitude": -1.28278,
+	"population": 37192,
+	"elevation": 0,
+	"dislikes_normalized": 99.85063322438324
+}, {
+	"key": "York",
+	"latitude": 53.95763,
+	"longitude": -1.08271,
+	"population": 144202,
+	"elevation": 0,
+	"dislikes_normalized": 99.57284377811874
+}, {
+	"key": "Wrexham",
+	"latitude": 53.04664,
+	"longitude": -2.99132,
+	"population": 43649,
+	"elevation": 0,
+	"dislikes_normalized": 98.55818555202788
+}, {
+	"key": "Pinner",
+	"latitude": 51.59384,
+	"longitude": -0.38216,
+	"population": 19158,
+	"elevation": 0,
+	"dislikes_normalized": 98.54415887177008
+}, {
+	"key": "Milton Keynes",
+	"latitude": 52.04172,
+	"longitude": -0.75583,
+	"population": 184506,
+	"elevation": 0,
+	"dislikes_normalized": 98.3563252378687
+}, {
+	"key": "Oswestry",
+	"latitude": 52.86195,
+	"longitude": -3.05497,
+	"population": 17031,
+	"elevation": 0,
+	"dislikes_normalized": 96.70398844220878
+}, {
+	"key": "Edinburgh",
+	"latitude": 55.95206,
+	"longitude": -3.19648,
+	"population": 435791,
+	"elevation": 0,
+	"dislikes_normalized": 96.62843572835403
+}, {
+	"key": "Sudbury",
+	"latitude": 52.0389,
+	"longitude": 0.73117,
+	"population": 12080,
+	"elevation": 0,
+	"dislikes_normalized": 96.61899721973214
+}, {
+	"key": "Haywards Heath",
+	"latitude": 50.99769,
+	"longitude": -0.10313,
+	"population": 29660,
+	"elevation": 0,
+	"dislikes_normalized": 96.60448570598781
+}, {
+	"key": "Bristol",
+	"latitude": 51.45523,
+	"longitude": -2.59665,
+	"population": 430713,
+	"elevation": 0,
+	"dislikes_normalized": 96.46919433471064
+}, {
+	"key": "Motherwell",
+	"latitude": 55.78924,
+	"longitude": -3.99187,
+	"population": 29908,
+	"elevation": 0,
+	"dislikes_normalized": 96.38133320913875
+}, {
+	"key": "Colchester",
+	"latitude": 51.88921,
+	"longitude": 0.90421,
+	"population": 109414,
+	"elevation": 0,
+	"dislikes_normalized": 96.15003411275097
+}, {
+	"key": "Ammanford",
+	"latitude": 51.79279,
+	"longitude": -3.98833,
+	"population": 12755,
+	"elevation": 0,
+	"dislikes_normalized": 96.11020428625619
+}, {
+	"key": "Cirencester",
+	"latitude": 51.71927,
+	"longitude": -1.97145,
+	"population": 16214,
+	"elevation": 0,
+	"dislikes_normalized": 95.94476921334059
+}, {
+	"key": "Ilkley",
+	"latitude": 53.92449,
+	"longitude": -1.82326,
+	"population": 13772,
+	"elevation": 0,
+	"dislikes_normalized": 95.90169046787632
+}, {
+	"key": "Sheerness",
+	"latitude": 51.44042,
+	"longitude": 0.76252,
+	"population": 11914,
+	"elevation": 0,
+	"dislikes_normalized": 95.88284380117172
+}, {
+	"key": "Slough",
+	"latitude": 51.50949,
+	"longitude": -0.59541,
+	"population": 134072,
+	"elevation": 0,
+	"dislikes_normalized": 95.42480644881208
+}, {
+	"key": "Greenford",
+	"latitude": 51.52866,
+	"longitude": -0.35508,
+	"population": 38000,
+	"elevation": 0,
+	"dislikes_normalized": 94.69438217061808
+}, {
+	"key": "Chorley",
+	"latitude": 53.65,
+	"longitude": -2.61667,
+	"population": 33888,
+	"elevation": 0,
+	"dislikes_normalized": 94.49699253559513
+}, {
+	"key": "Ashford",
+	"latitude": 51.14648,
+	"longitude": 0.87376,
+	"population": 62787,
+	"elevation": 0,
+	"dislikes_normalized": 94.49560358418034
+}, {
+	"key": "Newry",
+	"latitude": 54.17841,
+	"longitude": -6.33739,
+	"population": 27757,
+	"elevation": 0,
+	"dislikes_normalized": 94.49482220576698
+}, {
+	"key": "Camborne",
+	"latitude": 50.21306,
+	"longitude": -5.29731,
+	"population": 22500,
+	"elevation": 0,
+	"dislikes_normalized": 94.35696481293526
+}, {
+	"key": "Leeds",
+	"latitude": 53.79648,
+	"longitude": -1.54785,
+	"population": 455123,
+	"elevation": 0,
+	"dislikes_normalized": 94.14196708647393
+}, {
+	"key": "Andover",
+	"latitude": 51.21135,
+	"longitude": -1.49393,
+	"population": 39951,
+	"elevation": 0,
+	"dislikes_normalized": 93.91387684476535
+}, {
+	"key": "Saint Andrews",
+	"latitude": 56.33871,
+	"longitude": -2.79902,
+	"population": 15435,
+	"elevation": 0,
+	"dislikes_normalized": 93.58052637681503
+}, {
+	"key": "Lancaster",
+	"latitude": 54.04649,
+	"longitude": -2.79988,
+	"population": 47162,
+	"elevation": 0,
+	"dislikes_normalized": 93.57704967190423
+}, {
+	"key": "Dorchester",
+	"latitude": 50.71667,
+	"longitude": -2.43333,
+	"population": 16879,
+	"elevation": 0,
+	"dislikes_normalized": 93.55654252077088
+}, {
+	"key": "Reading",
+	"latitude": 51.45625,
+	"longitude": -0.97113,
+	"population": 244070,
+	"elevation": 0,
+	"dislikes_normalized": 93.50447822527775
+}, {
+	"key": "Maidenhead",
+	"latitude": 51.52279,
+	"longitude": -0.71986,
+	"population": 59463,
+	"elevation": 0,
+	"dislikes_normalized": 93.2392139617514
+}, {
+	"key": "Bridgend",
+	"latitude": 51.50583,
+	"longitude": -3.57722,
+	"population": 39429,
+	"elevation": 0,
+	"dislikes_normalized": 92.92612458003924
+}, {
+	"key": "Norwich",
+	"latitude": 52.62783,
+	"longitude": 1.29834,
+	"population": 177636,
+	"elevation": 0,
+	"dislikes_normalized": 92.45765390660343
+}, {
+	"key": "Leicester",
+	"latitude": 52.6386,
+	"longitude": -1.13169,
+	"population": 339239,
+	"elevation": 0,
+	"dislikes_normalized": 92.37761708300874
+}, {
+	"key": "Preston",
+	"latitude": 53.76282,
+	"longitude": -2.70452,
+	"population": 190687,
+	"elevation": 0,
+	"dislikes_normalized": 91.63210859535057
+}, {
+	"key": "Faversham",
+	"latitude": 51.3148,
+	"longitude": 0.88856,
+	"population": 18628,
+	"elevation": 0,
+	"dislikes_normalized": 91.45249264047541
+}, {
+	"key": "Stirling",
+	"latitude": 56.11903,
+	"longitude": -3.93682,
+	"population": 33012,
+	"elevation": 0,
+	"dislikes_normalized": 91.37890651798617
+}, {
+	"key": "Glenrothes",
+	"latitude": 56.19514,
+	"longitude": -3.17316,
+	"population": 38734,
+	"elevation": 0,
+	"dislikes_normalized": 91.18675101068885
+}, {
+	"key": "Doncaster",
+	"latitude": 53.52285,
+	"longitude": -1.13116,
+	"population": 67670,
+	"elevation": 0,
+	"dislikes_normalized": 90.99403314094145
+}, {
+	"key": "Rotherham",
+	"latitude": 53.43012,
+	"longitude": -1.35678,
+	"population": 117618,
+	"elevation": 0,
+	"dislikes_normalized": 90.89157687527255
+}, {
+	"key": "Croydon",
+	"latitude": 51.38333,
+	"longitude": -0.1,
+	"population": 173314,
+	"elevation": 0,
+	"dislikes_normalized": 90.5289788185357
+}, {
+	"key": "Haverfordwest",
+	"latitude": 51.80169,
+	"longitude": -4.96914,
+	"population": 13469,
+	"elevation": 0,
+	"dislikes_normalized": 90.39645882978805
+}, {
+	"key": "Pontypridd",
+	"latitude": 51.6021,
+	"longitude": -3.34211,
+	"population": 30420,
+	"elevation": 0,
+	"dislikes_normalized": 90.16208420268353
+}, {
+	"key": "Ipswich",
+	"latitude": 52.05917,
+	"longitude": 1.15545,
+	"population": 143767,
+	"elevation": 0,
+	"dislikes_normalized": 89.83938433793956
+}, {
+	"key": "Liversedge",
+	"latitude": 53.70514,
+	"longitude": -1.69327,
+	"population": 11656,
+	"elevation": 0,
+	"dislikes_normalized": 89.5267358472748
+}, {
+	"key": "Calne",
+	"latitude": 51.43879,
+	"longitude": -2.00571,
+	"population": 14096,
+	"elevation": 0,
+	"dislikes_normalized": 88.70124134660638
+}, {
+	"key": "Fareham",
+	"latitude": 50.85162,
+	"longitude": -1.17929,
+	"population": 57390,
+	"elevation": 0,
+	"dislikes_normalized": 88.6599954763043
+}, {
+	"key": "Cookstown",
+	"latitude": 54.64305,
+	"longitude": -6.74595,
+	"population": 11081,
+	"elevation": 0,
+	"dislikes_normalized": 88.0888987221751
+}, {
+	"key": "Teignmouth",
+	"latitude": 50.54768,
+	"longitude": -3.49637,
+	"population": 15498,
+	"elevation": 0,
+	"dislikes_normalized": 87.41135009028582
+}, {
+	"key": "Wigan",
+	"latitude": 53.53333,
+	"longitude": -2.61667,
+	"population": 80788,
+	"elevation": 0,
+	"dislikes_normalized": 87.29182060693022
+}, {
+	"key": "Horsham",
+	"latitude": 51.06314,
+	"longitude": -0.32757,
+	"population": 50680,
+	"elevation": 0,
+	"dislikes_normalized": 87.24592754719176
+}, {
+	"key": "Chippenham",
+	"latitude": 51.46,
+	"longitude": -2.12472,
+	"population": 36890,
+	"elevation": 0,
+	"dislikes_normalized": 86.81268607360137
+}, {
+	"key": "Cleveleys",
+	"latitude": 53.8775,
+	"longitude": -3.03987,
+	"population": 15000,
+	"elevation": 0,
+	"dislikes_normalized": 86.52148135835554
+}, {
+	"key": "Luton",
+	"latitude": 51.87967,
+	"longitude": -0.41748,
+	"population": 193669,
+	"elevation": 0,
+	"dislikes_normalized": 85.64019022058984
+}, {
+	"key": "Chester",
+	"latitude": 53.1905,
+	"longitude": -2.89189,
+	"population": 77040,
+	"elevation": 0,
+	"dislikes_normalized": 85.45841687265163
+}, {
+	"key": "Liverpool",
+	"latitude": 53.41058,
+	"longitude": -2.97794,
+	"population": 468945,
+	"elevation": 0,
+	"dislikes_normalized": 85.34684506547939
+}, {
+	"key": "Carterton",
+	"latitude": 51.75905,
+	"longitude": -1.59435,
+	"population": 13247,
+	"elevation": 0,
+	"dislikes_normalized": 85.09769967674691
+}, {
+	"key": "Newtown",
+	"latitude": 52.51667,
+	"longitude": -3.3,
+	"population": 12783,
+	"elevation": 0,
+	"dislikes_normalized": 84.82453796515743
+}, {
+	"key": "Saltash",
+	"latitude": 50.40959,
+	"longitude": -4.22514,
+	"population": 14439,
+	"elevation": 0,
+	"dislikes_normalized": 84.6003046870024
+}, {
+	"key": "Caerphilly",
+	"latitude": 51.57452,
+	"longitude": -3.218,
+	"population": 31060,
+	"elevation": 0,
+	"dislikes_normalized": 84.4415070418903
+}, {
+	"key": "Swansea",
+	"latitude": 51.62079,
+	"longitude": -3.94323,
+	"population": 170883,
+	"elevation": 0,
+	"dislikes_normalized": 84.12014376587322
+}, {
+	"key": "East Grinstead",
+	"latitude": 51.12382,
+	"longitude": -0.0061,
+	"population": 26523,
+	"elevation": 0,
+	"dislikes_normalized": 83.87599454424915
+}, {
+	"key": "Cheltenham",
+	"latitude": 51.90006,
+	"longitude": -2.07972,
+	"population": 103249,
+	"elevation": 0,
+	"dislikes_normalized": 83.82351670760112
+}, {
+	"key": "Weybridge",
+	"latitude": 51.37178,
+	"longitude": -0.45975,
+	"population": 19463,
+	"elevation": 0,
+	"dislikes_normalized": 83.59642915703151
+}, {
+	"key": "Glasgow",
+	"latitude": 55.86515,
+	"longitude": -4.25763,
+	"population": 610268,
+	"elevation": 0,
+	"dislikes_normalized": 83.5254010217292
+}, {
+	"key": "Berkhamsted",
+	"latitude": 51.7604,
+	"longitude": -0.56528,
+	"population": 16243,
+	"elevation": 0,
+	"dislikes_normalized": 83.18537401944137
+}, {
+	"key": "Thame",
+	"latitude": 51.7484,
+	"longitude": -0.97624,
+	"population": 11128,
+	"elevation": 0,
+	"dislikes_normalized": 83.12061875717419
+}, {
+	"key": "Bedford",
+	"latitude": 52.13459,
+	"longitude": -0.46632,
+	"population": 86658,
+	"elevation": 0,
+	"dislikes_normalized": 82.81107675591622
+}, {
+	"key": "Petersfield",
+	"latitude": 51.00495,
+	"longitude": -0.93375,
+	"population": 13384,
+	"elevation": 0,
+	"dislikes_normalized": 82.44876422465813
+}, {
+	"key": "Mansfield",
+	"latitude": 53.13333,
+	"longitude": -1.2,
+	"population": 70447,
+	"elevation": 0,
+	"dislikes_normalized": 82.10578867761488
+}, {
+	"key": "Warrington",
+	"latitude": 53.39254,
+	"longitude": -2.58024,
+	"population": 81238,
+	"elevation": 0,
+	"dislikes_normalized": 81.750999569917
+}, {
+	"key": "Cardiff",
+	"latitude": 51.48,
+	"longitude": -3.18,
+	"population": 302139,
+	"elevation": 0,
+	"dislikes_normalized": 81.31011377317715
+}, {
+	"key": "Falmouth",
+	"latitude": 50.15441,
+	"longitude": -5.07113,
+	"population": 22222,
+	"elevation": 0,
+	"dislikes_normalized": 81.079466942335
+}, {
+	"key": "Neston",
+	"latitude": 51.41222,
+	"longitude": -2.20056,
+	"population": 15352,
+	"elevation": 0,
+	"dislikes_normalized": 80.99044087799548
+}, {
+	"key": "Bromsgrove",
+	"latitude": 52.33574,
+	"longitude": -2.05983,
+	"population": 29237,
+	"elevation": 0,
+	"dislikes_normalized": 80.73477682868838
+}, {
+	"key": "Banbury",
+	"latitude": 52.0632,
+	"longitude": -1.34222,
+	"population": 46075,
+	"elevation": 0,
+	"dislikes_normalized": 80.67030315393679
+}, {
+	"key": "Nelson",
+	"latitude": 53.83333,
+	"longitude": -2.2,
+	"population": 29317,
+	"elevation": 0,
+	"dislikes_normalized": 80.41273548152652
+}, {
+	"key": "Beaconsfield",
+	"latitude": 51.61219,
+	"longitude": -0.64732,
+	"population": 12566,
+	"elevation": 0,
+	"dislikes_normalized": 80.19102294851541
+}, {
+	"key": "Watford",
+	"latitude": 51.65531,
+	"longitude": -0.39602,
+	"population": 125707,
+	"elevation": 0,
+	"dislikes_normalized": 80.18038596603765
+}, {
+	"key": "Bridport",
+	"latitude": 50.7338,
+	"longitude": -2.75831,
+	"population": 13266,
+	"elevation": 0,
+	"dislikes_normalized": 80.16202271541249
+}, {
+	"key": "Wokingham",
+	"latitude": 51.4112,
+	"longitude": -0.83565,
+	"population": 41143,
+	"elevation": 0,
+	"dislikes_normalized": 79.94154760048819
+}, {
+	"key": "Altrincham",
+	"latitude": 53.38752,
+	"longitude": -2.34848,
+	"population": 41548,
+	"elevation": 0,
+	"dislikes_normalized": 79.55011283211401
+}, {
+	"key": "Farnborough",
+	"latitude": 51.29424,
+	"longitude": -0.75565,
+	"population": 59902,
+	"elevation": 0,
+	"dislikes_normalized": 79.32387652655513
+}, {
+	"key": "London",
+	"latitude": 51.50853,
+	"longitude": -0.12574,
+	"population": 7556900,
+	"elevation": 0,
+	"dislikes_normalized": 78.91030376347128
+}, {
+	"key": "Aberdeen",
+	"latitude": 57.14369,
+	"longitude": -2.09814,
+	"population": 183790,
+	"elevation": 0,
+	"dislikes_normalized": 78.78960357231306
+}, {
+	"key": "Devizes",
+	"latitude": 51.35084,
+	"longitude": -1.99421,
+	"population": 14699,
+	"elevation": 0,
+	"dislikes_normalized": 78.50667346876156
+}, {
+	"key": "Barnet",
+	"latitude": 51.65,
+	"longitude": -0.2,
+	"population": 30000,
+	"elevation": 0,
+	"dislikes_normalized": 78.50583970142328
+}, {
+	"key": "Peterborough",
+	"latitude": 52.57364,
+	"longitude": -0.24777,
+	"population": 140141,
+	"elevation": 0,
+	"dislikes_normalized": 78.35871350074045
+}, {
+	"key": "Tonbridge",
+	"latitude": 51.19532,
+	"longitude": 0.27363,
+	"population": 36894,
+	"elevation": 0,
+	"dislikes_normalized": 78.29776308722117
+}, {
+	"key": "Honiton",
+	"latitude": 50.7996,
+	"longitude": -3.18899,
+	"population": 11463,
+	"elevation": 0,
+	"dislikes_normalized": 78.1091455956616
+}, {
+	"key": "Belfast",
+	"latitude": 54.59682,
+	"longitude": -5.92541,
+	"population": 274770,
+	"elevation": 0,
+	"dislikes_normalized": 77.95593110202412
+}, {
+	"key": "Antrim",
+	"latitude": 54.7,
+	"longitude": -6.2,
+	"population": 19661,
+	"elevation": 0,
+	"dislikes_normalized": 77.83181755880501
+}, {
+	"key": "Perth",
+	"latitude": 56.39522,
+	"longitude": -3.43139,
+	"population": 43633,
+	"elevation": 0,
+	"dislikes_normalized": 77.58527571201748
+}, {
+	"key": "Skipton",
+	"latitude": 53.96144,
+	"longitude": -2.01676,
+	"population": 14632,
+	"elevation": 0,
+	"dislikes_normalized": 77.47511661876626
+}, {
+	"key": "Forfar",
+	"latitude": 56.64382,
+	"longitude": -2.89001,
+	"population": 13237,
+	"elevation": 0,
+	"dislikes_normalized": 77.0082751079815
+}, {
+	"key": "Arbroath",
+	"latitude": 56.56317,
+	"longitude": -2.58736,
+	"population": 22291,
+	"elevation": 0,
+	"dislikes_normalized": 76.3106458561362
+}, {
+	"key": "Blandford Forum",
+	"latitude": 50.86073,
+	"longitude": -2.16174,
+	"population": 10073,
+	"elevation": 0,
+	"dislikes_normalized": 76.05652027742427
+}, {
+	"key": "Barnsley",
+	"latitude": 53.55,
+	"longitude": -1.48333,
+	"population": 71447,
+	"elevation": 0,
+	"dislikes_normalized": 76.0220429374275
+}, {
+	"key": "Market Harborough",
+	"latitude": 52.4776,
+	"longitude": -0.92053,
+	"population": 20575,
+	"elevation": 0,
+	"dislikes_normalized": 76.00848881958974
+}, {
+	"key": "Royston",
+	"latitude": 52.04832,
+	"longitude": -0.02438,
+	"population": 14895,
+	"elevation": 0,
+	"dislikes_normalized": 75.82731050660006
+}, {
+	"key": "Borehamwood",
+	"latitude": 51.65468,
+	"longitude": -0.27762,
+	"population": 32176,
+	"elevation": 0,
+	"dislikes_normalized": 75.54516859363493
+}, {
+	"key": "Bushey",
+	"latitude": 51.64316,
+	"longitude": -0.36053,
+	"population": 17380,
+	"elevation": 0,
+	"dislikes_normalized": 75.26414063019608
+}, {
+	"key": "Northolt",
+	"latitude": 51.54855,
+	"longitude": -0.36778,
+	"population": 26000,
+	"elevation": 0,
+	"dislikes_normalized": 75.17582380212954
+}, {
+	"key": "Inverurie",
+	"latitude": 57.28446,
+	"longitude": -2.37736,
+	"population": 11323,
+	"elevation": 0,
+	"dislikes_normalized": 75.04659058341699
+}, {
+	"key": "Hemel Hempstead",
+	"latitude": 51.75368,
+	"longitude": -0.44975,
+	"population": 85629,
+	"elevation": 0,
+	"dislikes_normalized": 74.61279356462607
+}, {
+	"key": "Rhyl",
+	"latitude": 53.31929,
+	"longitude": -3.49228,
+	"population": 25874,
+	"elevation": 0,
+	"dislikes_normalized": 74.35388407775807
+}, {
+	"key": "Alton",
+	"latitude": 51.14931,
+	"longitude": -0.97469,
+	"population": 16584,
+	"elevation": 0,
+	"dislikes_normalized": 74.27382331506494
+}, {
+	"key": "Shrewsbury",
+	"latitude": 52.71009,
+	"longitude": -2.75208,
+	"population": 69519,
+	"elevation": 0,
+	"dislikes_normalized": 74.21260148463703
+}, {
+	"key": "Accrington",
+	"latitude": 53.75379,
+	"longitude": -2.35863,
+	"population": 35318,
+	"elevation": 0,
+	"dislikes_normalized": 74.2021278675396
+}, {
+	"key": "Wetherby",
+	"latitude": 53.92836,
+	"longitude": -1.38672,
+	"population": 10797,
+	"elevation": 0,
+	"dislikes_normalized": 74.14131430857532
+}, {
+	"key": "Chichester",
+	"latitude": 50.83673,
+	"longitude": -0.78003,
+	"population": 28222,
+	"elevation": 0,
+	"dislikes_normalized": 73.33578776817642
+}, {
+	"key": "Sale",
+	"latitude": 53.42519,
+	"longitude": -2.32443,
+	"population": 55689,
+	"elevation": 0,
+	"dislikes_normalized": 73.27629875720842
+}, {
+	"key": "Grantham",
+	"latitude": 52.91149,
+	"longitude": -0.64184,
+	"population": 35720,
+	"elevation": 0,
+	"dislikes_normalized": 73.23056965402262
+}, {
+	"key": "Stafford",
+	"latitude": 52.80521,
+	"longitude": -2.11636,
+	"population": 65290,
+	"elevation": 0,
+	"dislikes_normalized": 73.10009071229922
+}, {
+	"key": "Sittingbourne",
+	"latitude": 51.34128,
+	"longitude": 0.73282,
+	"population": 41148,
+	"elevation": 0,
+	"dislikes_normalized": 72.91691358906529
+}, {
+	"key": "Gravesend",
+	"latitude": 51.44138,
+	"longitude": 0.37371,
+	"population": 54263,
+	"elevation": 0,
+	"dislikes_normalized": 72.88599500595758
+}, {
+	"key": "Exeter",
+	"latitude": 50.7236,
+	"longitude": -3.52751,
+	"population": 113118,
+	"elevation": 0,
+	"dislikes_normalized": 72.5300093132604
+}, {
+	"key": "Washington",
+	"latitude": 54.9,
+	"longitude": -1.51667,
+	"population": 53526,
+	"elevation": 0,
+	"dislikes_normalized": 72.52982091111441
+}, {
+	"key": "Basingstoke",
+	"latitude": 51.26249,
+	"longitude": -1.08708,
+	"population": 96348,
+	"elevation": 0,
+	"dislikes_normalized": 72.41681237456744
+}, {
+	"key": "Whitstable",
+	"latitude": 51.3607,
+	"longitude": 1.0257,
+	"population": 30195,
+	"elevation": 0,
+	"dislikes_normalized": 72.37203139176623
+}, {
+	"key": "Chelmsford",
+	"latitude": 51.73575,
+	"longitude": 0.46958,
+	"population": 102671,
+	"elevation": 0,
+	"dislikes_normalized": 72.35626507605922
+}, {
+	"key": "Ulverston",
+	"latitude": 54.19594,
+	"longitude": -3.09626,
+	"population": 11460,
+	"elevation": 0,
+	"dislikes_normalized": 71.86848032973107
+}, {
+	"key": "Darlington",
+	"latitude": 54.52429,
+	"longitude": -1.55039,
+	"population": 87204,
+	"elevation": 0,
+	"dislikes_normalized": 71.63080056180061
+}, {
+	"key": "Ashtead",
+	"latitude": 51.30873,
+	"longitude": -0.29972,
+	"population": 13494,
+	"elevation": 0,
+	"dislikes_normalized": 71.43798549933007
+}, {
+	"key": "Oakham",
+	"latitude": 52.66667,
+	"longitude": -0.73333,
+	"population": 10150,
+	"elevation": 0,
+	"dislikes_normalized": 71.41161099265605
+}, {
+	"key": "Newhaven",
+	"latitude": 50.79693,
+	"longitude": 0.05545,
+	"population": 12549,
+	"elevation": 0,
+	"dislikes_normalized": 71.3813813626843
+}, {
+	"key": "Hertford",
+	"latitude": 51.79588,
+	"longitude": -0.07854,
+	"population": 25847,
+	"elevation": 0,
+	"dislikes_normalized": 71.16273531152318
+}, {
+	"key": "Bodmin",
+	"latitude": 50.47151,
+	"longitude": -4.7243,
+	"population": 13063,
+	"elevation": 0,
+	"dislikes_normalized": 71.15513740519155
+}, {
+	"key": "Maidstone",
+	"latitude": 51.26667,
+	"longitude": 0.51667,
+	"population": 90894,
+	"elevation": 0,
+	"dislikes_normalized": 70.67223460760314
+}, {
+	"key": "Wellingborough",
+	"latitude": 52.30273,
+	"longitude": -0.69446,
+	"population": 49783,
+	"elevation": 0,
+	"dislikes_normalized": 70.57568212524312
+}, {
+	"key": "Herne Bay",
+	"latitude": 51.373,
+	"longitude": 1.12857,
+	"population": 36642,
+	"elevation": 0,
+	"dislikes_normalized": 70.53188189723356
+}, {
+	"key": "Winsford",
+	"latitude": 53.18333,
+	"longitude": -2.51667,
+	"population": 30812,
+	"elevation": 0,
+	"dislikes_normalized": 69.99124073991557
+}, {
+	"key": "Northallerton",
+	"latitude": 54.33901,
+	"longitude": -1.43243,
+	"population": 16480,
+	"elevation": 0,
+	"dislikes_normalized": 69.96056015273922
+}, {
+	"key": "Flint",
+	"latitude": 53.24488,
+	"longitude": -3.13231,
+	"population": 12068,
+	"elevation": 0,
+	"dislikes_normalized": 69.94277446237223
+}, {
+	"key": "Worcester",
+	"latitude": 52.18935,
+	"longitude": -2.22001,
+	"population": 100023,
+	"elevation": 0,
+	"dislikes_normalized": 69.6458864955886
+}, {
+	"key": "Pontefract",
+	"latitude": 53.69107,
+	"longitude": -1.31269,
+	"population": 28620,
+	"elevation": 0,
+	"dislikes_normalized": 69.60716033012308
+}, {
+	"key": "Farnham",
+	"latitude": 51.21444,
+	"longitude": -0.80054,
+	"population": 36971,
+	"elevation": 0,
+	"dislikes_normalized": 69.50751365731104
+}, {
+	"key": "Chesterfield",
+	"latitude": 53.25,
+	"longitude": -1.41667,
+	"population": 70679,
+	"elevation": 0,
+	"dislikes_normalized": 69.24583683620199
+}, {
+	"key": "Corsham",
+	"latitude": 51.43433,
+	"longitude": -2.18437,
+	"population": 11570,
+	"elevation": 0,
+	"dislikes_normalized": 69.15718683816134
+}, {
+	"key": "Oldham",
+	"latitude": 53.54051,
+	"longitude": -2.1183,
+	"population": 104782,
+	"elevation": 0,
+	"dislikes_normalized": 68.99423596540987
+}, {
+	"key": "Llanelli",
+	"latitude": 51.68195,
+	"longitude": -4.16191,
+	"population": 47206,
+	"elevation": 0,
+	"dislikes_normalized": 68.80582677187097
+}, {
+	"key": "Stamford",
+	"latitude": 52.65,
+	"longitude": -0.48333,
+	"population": 20526,
+	"elevation": 0,
+	"dislikes_normalized": 68.77016836783838
+}, {
+	"key": "Kettering",
+	"latitude": 52.39836,
+	"longitude": -0.72571,
+	"population": 53329,
+	"elevation": 0,
+	"dislikes_normalized": 68.67554492821557
+}, {
+	"key": "Bury",
+	"latitude": 53.6,
+	"longitude": -2.3,
+	"population": 61044,
+	"elevation": 0,
+	"dislikes_normalized": 68.65709279559306
+}, {
+	"key": "Trowbridge",
+	"latitude": 51.31889,
+	"longitude": -2.20861,
+	"population": 36922,
+	"elevation": 0,
+	"dislikes_normalized": 68.6215938999792
+}, {
+	"key": "Crowborough",
+	"latitude": 51.06098,
+	"longitude": 0.16342,
+	"population": 20733,
+	"elevation": 0,
+	"dislikes_normalized": 68.43840027054449
+}, {
+	"key": "Driffield",
+	"latitude": 54.00613,
+	"longitude": -0.44495,
+	"population": 11495,
+	"elevation": 0,
+	"dislikes_normalized": 68.33240832162213
+}, {
+	"key": "Alloa",
+	"latitude": 56.11586,
+	"longitude": -3.78997,
+	"population": 18885,
+	"elevation": 0,
+	"dislikes_normalized": 68.21825736000268
+}, {
+	"key": "Hitchin",
+	"latitude": 51.94924,
+	"longitude": -0.28496,
+	"population": 33830,
+	"elevation": 0,
+	"dislikes_normalized": 68.12830412405418
+}, {
+	"key": "Tiverton",
+	"latitude": 50.90241,
+	"longitude": -3.49232,
+	"population": 16799,
+	"elevation": 0,
+	"dislikes_normalized": 68.10278222697174
+}, {
+	"key": "Bolton",
+	"latitude": 53.58333,
+	"longitude": -2.43333,
+	"population": 141331,
+	"elevation": 0,
+	"dislikes_normalized": 67.82200023376195
+}, {
+	"key": "Woodford Green",
+	"latitude": 51.60938,
+	"longitude": 0.02329,
+	"population": 22803,
+	"elevation": 0,
+	"dislikes_normalized": 67.81630054019821
+}, {
+	"key": "Ringwood",
+	"latitude": 50.84541,
+	"longitude": -1.78871,
+	"population": 13685,
+	"elevation": 0,
+	"dislikes_normalized": 67.81040372338845
+}, {
+	"key": "Aylesbury",
+	"latitude": 51.81665,
+	"longitude": -0.81458,
+	"population": 74565,
+	"elevation": 0,
+	"dislikes_normalized": 67.68696339690604
+}, {
+	"key": "High Wycombe",
+	"latitude": 51.62907,
+	"longitude": -0.74934,
+	"population": 80357,
+	"elevation": 0,
+	"dislikes_normalized": 67.63490531689172
+}, {
+	"key": "Linlithgow",
+	"latitude": 55.97639,
+	"longitude": -3.60364,
+	"population": 13863,
+	"elevation": 50,
+	"dislikes_normalized": 67.45762124238574
+}, {
+	"key": "Worthing",
+	"latitude": 50.81795,
+	"longitude": -0.37538,
+	"population": 99110,
+	"elevation": 0,
+	"dislikes_normalized": 67.25934495168809
+}, {
+	"key": "Bradford",
+	"latitude": 53.79391,
+	"longitude": -1.75206,
+	"population": 299310,
+	"elevation": 0,
+	"dislikes_normalized": 67.11814141377052
+}, {
+	"key": "Seaford",
+	"latitude": 50.77141,
+	"longitude": 0.10268,
+	"population": 22338,
+	"elevation": 0,
+	"dislikes_normalized": 67.04864170420844
+}, {
+	"key": "Bathgate",
+	"latitude": 55.90204,
+	"longitude": -3.64398,
+	"population": 15337,
+	"elevation": 0,
+	"dislikes_normalized": 66.40088494083228
+}, {
+	"key": "Portadown",
+	"latitude": 54.42302,
+	"longitude": -6.44434,
+	"population": 22000,
+	"elevation": 0,
+	"dislikes_normalized": 66.25559457066643
+}, {
+	"key": "Ware",
+	"latitude": 51.81058,
+	"longitude": -0.02875,
+	"population": 17576,
+	"elevation": 0,
+	"dislikes_normalized": 66.11661775695873
+}, {
+	"key": "Gateshead",
+	"latitude": 54.96209,
+	"longitude": -1.60168,
+	"population": 77649,
+	"elevation": 0,
+	"dislikes_normalized": 65.78630616130364
+}, {
+	"key": "Heckmondwike",
+	"latitude": 53.70646,
+	"longitude": -1.67747,
+	"population": 11542,
+	"elevation": 0,
+	"dislikes_normalized": 65.72628130387758
+}, {
+	"key": "Coalville",
+	"latitude": 52.72247,
+	"longitude": -1.3702,
+	"population": 33288,
+	"elevation": 0,
+	"dislikes_normalized": 65.7242257389424
+}, {
+	"key": "Blackburn",
+	"latitude": 53.75,
+	"longitude": -2.48333,
+	"population": 106154,
+	"elevation": 0,
+	"dislikes_normalized": 65.25100258814173
+}, {
+	"key": "Egham",
+	"latitude": 51.43158,
+	"longitude": -0.55239,
+	"population": 29663,
+	"elevation": 0,
+	"dislikes_normalized": 65.104176317563
+}, {
+	"key": "Haslemere",
+	"latitude": 51.09015,
+	"longitude": -0.70785,
+	"population": 11923,
+	"elevation": 0,
+	"dislikes_normalized": 64.9422553934863
+}, {
+	"key": "Shipley",
+	"latitude": 53.83333,
+	"longitude": -1.76667,
+	"population": 28544,
+	"elevation": 0,
+	"dislikes_normalized": 64.84300842726708
+}, {
+	"key": "Stockport",
+	"latitude": 53.40979,
+	"longitude": -2.15761,
+	"population": 139052,
+	"elevation": 0,
+	"dislikes_normalized": 64.6945735760221
+}, {
+	"key": "Downpatrick",
+	"latitude": 54.32814,
+	"longitude": -5.71529,
+	"population": 10507,
+	"elevation": 0,
+	"dislikes_normalized": 64.67919216991427
+}, {
+	"key": "Sandbach",
+	"latitude": 53.14515,
+	"longitude": -2.36251,
+	"population": 18023,
+	"elevation": 0,
+	"dislikes_normalized": 64.54445513077418
+}, {
+	"key": "Larbert",
+	"latitude": 56.02246,
+	"longitude": -3.82872,
+	"population": 11000,
+	"elevation": 0,
+	"dislikes_normalized": 64.52057472237905
+}, {
+	"key": "Bangor",
+	"latitude": 54.65338,
+	"longitude": -5.66895,
+	"population": 60385,
+	"elevation": 0,
+	"dislikes_normalized": 64.49659891718225
+}, {
+	"key": "Hamilton",
+	"latitude": 55.76667,
+	"longitude": -4.03333,
+	"population": 47615,
+	"elevation": 0,
+	"dislikes_normalized": 64.13707912372558
+}, {
+	"key": "Bournemouth",
+	"latitude": 50.72048,
+	"longitude": -1.8795,
+	"population": 163600,
+	"elevation": 0,
+	"dislikes_normalized": 64.08481050443665
+}, {
+	"key": "Dawlish",
+	"latitude": 50.58118,
+	"longitude": -3.46644,
+	"population": 10676,
+	"elevation": 0,
+	"dislikes_normalized": 64.06302982481391
+}, {
+	"key": "Woking",
+	"latitude": 51.31903,
+	"longitude": -0.55893,
+	"population": 103932,
+	"elevation": 0,
+	"dislikes_normalized": 63.913239386914384
+}, {
+	"key": "Buckley",
+	"latitude": 53.16667,
+	"longitude": -3.08333,
+	"population": 18471,
+	"elevation": 0,
+	"dislikes_normalized": 63.906863366920035
+}, {
+	"key": "Bromborough",
+	"latitude": 53.3485,
+	"longitude": -2.97935,
+	"population": 14850,
+	"elevation": 0,
+	"dislikes_normalized": 63.63504344891742
+}, {
+	"key": "Rugby",
+	"latitude": 52.37092,
+	"longitude": -1.26417,
+	"population": 63323,
+	"elevation": 0,
+	"dislikes_normalized": 63.30309105002443
+}, {
+	"key": "Gainsborough",
+	"latitude": 53.38333,
+	"longitude": -0.76667,
+	"population": 19871,
+	"elevation": 0,
+	"dislikes_normalized": 63.12775348691191
+}, {
+	"key": "Knaresborough",
+	"latitude": 54.0091,
+	"longitude": -1.46851,
+	"population": 14740,
+	"elevation": 0,
+	"dislikes_normalized": 63.10459687679071
+}, {
+	"key": "Dunstable",
+	"latitude": 51.88571,
+	"longitude": -0.52288,
+	"population": 51973,
+	"elevation": 0,
+	"dislikes_normalized": 63.0346616594827
+}, {
+	"key": "Bicester",
+	"latitude": 51.89998,
+	"longitude": -1.15357,
+	"population": 35902,
+	"elevation": 0,
+	"dislikes_normalized": 63.001598938029304
+}, {
+	"key": "Thatcham",
+	"latitude": 51.40366,
+	"longitude": -1.26049,
+	"population": 24274,
+	"elevation": 0,
+	"dislikes_normalized": 62.97443361334047
+}, {
+	"key": "Boston",
+	"latitude": 52.97633,
+	"longitude": -0.02664,
+	"population": 35859,
+	"elevation": 0,
+	"dislikes_normalized": 62.80655465700822
+}, {
+	"key": "Chatham",
+	"latitude": 51.37891,
+	"longitude": 0.52786,
+	"population": 75509,
+	"elevation": 0,
+	"dislikes_normalized": 62.62270218476983
+}, {
+	"key": "Scarborough",
+	"latitude": 54.27966,
+	"longitude": -0.40443,
+	"population": 38909,
+	"elevation": 0,
+	"dislikes_normalized": 62.50205218563576
+}, {
+	"key": "Maldon",
+	"latitude": 51.7311,
+	"longitude": 0.67463,
+	"population": 21193,
+	"elevation": 0,
+	"dislikes_normalized": 62.427629218182645
+}, {
+	"key": "Hailsham",
+	"latitude": 50.8622,
+	"longitude": 0.25775,
+	"population": 19604,
+	"elevation": 0,
+	"dislikes_normalized": 62.015798939050406
+}, {
+	"key": "Matlock",
+	"latitude": 53.13838,
+	"longitude": -1.5556,
+	"population": 11516,
+	"elevation": 0,
+	"dislikes_normalized": 61.662591751973125
+}, {
+	"key": "Cobham",
+	"latitude": 51.32997,
+	"longitude": -0.4113,
+	"population": 16724,
+	"elevation": 0,
+	"dislikes_normalized": 61.624285382623064
+}, {
+	"key": "Dalkeith",
+	"latitude": 55.89317,
+	"longitude": -3.06806,
+	"population": 11502,
+	"elevation": 0,
+	"dislikes_normalized": 61.60747587246684
+}, {
+	"key": "Neath",
+	"latitude": 51.66317,
+	"longitude": -3.80443,
+	"population": 46126,
+	"elevation": 0,
+	"dislikes_normalized": 61.57960595974464
+}, {
+	"key": "Newport",
+	"latitude": 51.58774,
+	"longitude": -2.99835,
+	"population": 117326,
+	"elevation": 0,
+	"dislikes_normalized": 61.3447764620753
+}, {
+	"key": "Welwyn Garden City",
+	"latitude": 51.80174,
+	"longitude": -0.20691,
+	"population": 44725,
+	"elevation": 0,
+	"dislikes_normalized": 61.293633234095424
+}, {
+	"key": "Inverness",
+	"latitude": 57.47908,
+	"longitude": -4.22398,
+	"population": 40755,
+	"elevation": 0,
+	"dislikes_normalized": 61.209083493112836
+}, {
+	"key": "Llandudno",
+	"latitude": 53.32498,
+	"longitude": -3.83148,
+	"population": 15037,
+	"elevation": 0,
+	"dislikes_normalized": 61.14971302058055
+}, {
+	"key": "Broxburn",
+	"latitude": 55.93415,
+	"longitude": -3.47133,
+	"population": 13288,
+	"elevation": 0,
+	"dislikes_normalized": 61.022540631477405
+}, {
+	"key": "Cowes",
+	"latitude": 50.76306,
+	"longitude": -1.29772,
+	"population": 17000,
+	"elevation": 0,
+	"dislikes_normalized": 60.985427479810774
+}, {
+	"key": "Birmingham",
+	"latitude": 52.48142,
+	"longitude": -1.89983,
+	"population": 984333,
+	"elevation": 0,
+	"dislikes_normalized": 60.77546383383903
+}, {
+	"key": "Crewe",
+	"latitude": 53.09787,
+	"longitude": -2.44161,
+	"population": 70455,
+	"elevation": 0,
+	"dislikes_normalized": 60.61411564008127
+}, {
+	"key": "Livingston",
+	"latitude": 55.90288,
+	"longitude": -3.52261,
+	"population": 53798,
+	"elevation": 0,
+	"dislikes_normalized": 60.59111256596324
+}, {
+	"key": "Didcot",
+	"latitude": 51.60928,
+	"longitude": -1.24214,
+	"population": 25793,
+	"elevation": 0,
+	"dislikes_normalized": 60.50944795185401
+}, {
+	"key": "Frome",
+	"latitude": 51.22834,
+	"longitude": -2.32211,
+	"population": 24948,
+	"elevation": 0,
+	"dislikes_normalized": 60.487749278810526
+}, {
+	"key": "Beccles",
+	"latitude": 52.45936,
+	"longitude": 1.56465,
+	"population": 13205,
+	"elevation": 0,
+	"dislikes_normalized": 60.42355831494745
+}, {
+	"key": "Montrose",
+	"latitude": 56.7,
+	"longitude": -2.45,
+	"population": 10620,
+	"elevation": 0,
+	"dislikes_normalized": 60.19810723022599
+}, {
+	"key": "Braintree",
+	"latitude": 51.87819,
+	"longitude": 0.55292,
+	"population": 46765,
+	"elevation": 0,
+	"dislikes_normalized": 60.08035456172872
+}, {
+	"key": "Newmarket",
+	"latitude": 52.24467,
+	"longitude": 0.40418,
+	"population": 17324,
+	"elevation": 0,
+	"dislikes_normalized": 59.96760147528332
+}, {
+	"key": "Ripley",
+	"latitude": 53.03333,
+	"longitude": -1.4,
+	"population": 21097,
+	"elevation": 0,
+	"dislikes_normalized": 59.86498584876988
+}, {
+	"key": "Ilkeston",
+	"latitude": 52.97055,
+	"longitude": -1.30951,
+	"population": 38587,
+	"elevation": 0,
+	"dislikes_normalized": 59.72845319910324
+}, {
+	"key": "Hebburn",
+	"latitude": 54.97302,
+	"longitude": -1.51546,
+	"population": 18808,
+	"elevation": 0,
+	"dislikes_normalized": 59.58571544641512
+}, {
+	"key": "Chesham",
+	"latitude": 51.7,
+	"longitude": -0.6,
+	"population": 20649,
+	"elevation": 0,
+	"dislikes_normalized": 59.54897282840694
+}, {
+	"key": "Hereford",
+	"latitude": 52.05684,
+	"longitude": -2.71482,
+	"population": 58281,
+	"elevation": 0,
+	"dislikes_normalized": 59.328358418328754
+}, {
+	"key": "Brentwood",
+	"latitude": 51.62127,
+	"longitude": 0.30556,
+	"population": 47606,
+	"elevation": 0,
+	"dislikes_normalized": 59.06994758674408
+}, {
+	"key": "Dover",
+	"latitude": 51.13333,
+	"longitude": 1.3,
+	"population": 28156,
+	"elevation": 0,
+	"dislikes_normalized": 59.06721140661347
+}, {
+	"key": "Christchurch",
+	"latitude": 50.73583,
+	"longitude": -1.78129,
+	"population": 42396,
+	"elevation": 0,
+	"dislikes_normalized": 58.96020932756599
+}, {
+	"key": "Knutsford",
+	"latitude": 53.30289,
+	"longitude": -2.37482,
+	"population": 12938,
+	"elevation": 0,
+	"dislikes_normalized": 58.922920230835985
+}, {
+	"key": "Winchester",
+	"latitude": 51.06513,
+	"longitude": -1.3187,
+	"population": 40000,
+	"elevation": 0,
+	"dislikes_normalized": 58.6493207853855
+}, {
+	"key": "Stourbridge",
+	"latitude": 52.45608,
+	"longitude": -2.14317,
+	"population": 56284,
+	"elevation": 0,
+	"dislikes_normalized": 58.443969365508856
+}, {
+	"key": "Melton Mowbray",
+	"latitude": 52.76588,
+	"longitude": -0.88693,
+	"population": 26405,
+	"elevation": 0,
+	"dislikes_normalized": 58.05772991021658
+}, {
+	"key": "Gosport",
+	"latitude": 50.79509,
+	"longitude": -1.12902,
+	"population": 70793,
+	"elevation": 0,
+	"dislikes_normalized": 58.013651099015526
+}, {
+	"key": "Chepstow",
+	"latitude": 51.64087,
+	"longitude": -2.67683,
+	"population": 11062,
+	"elevation": 0,
+	"dislikes_normalized": 57.96958383653713
+}, {
+	"key": "Bridgnorth",
+	"latitude": 52.53661,
+	"longitude": -2.42033,
+	"population": 12156,
+	"elevation": 0,
+	"dislikes_normalized": 57.96325418001889
+}, {
+	"key": "Crawley",
+	"latitude": 51.11303,
+	"longitude": -0.18312,
+	"population": 107061,
+	"elevation": 0,
+	"dislikes_normalized": 57.83219506204057
+}, {
+	"key": "Plymouth",
+	"latitude": 50.37153,
+	"longitude": -4.14305,
+	"population": 247297,
+	"elevation": 0,
+	"dislikes_normalized": 57.75215074465336
+}, {
+	"key": "Amersham",
+	"latitude": 51.66667,
+	"longitude": -0.61667,
+	"population": 21731,
+	"elevation": 0,
+	"dislikes_normalized": 57.58772832743564
+}, {
+	"key": "Jarrow",
+	"latitude": 54.98036,
+	"longitude": -1.48423,
+	"population": 27264,
+	"elevation": 0,
+	"dislikes_normalized": 57.42138920817477
+}, {
+	"key": "Carlisle",
+	"latitude": 54.8951,
+	"longitude": -2.9382,
+	"population": 72633,
+	"elevation": 0,
+	"dislikes_normalized": 57.37184696312832
+}, {
+	"key": "Colwyn Bay",
+	"latitude": 53.29483,
+	"longitude": -3.72674,
+	"population": 30829,
+	"elevation": 0,
+	"dislikes_normalized": 57.31197442062131
+}, {
+	"key": "Cwmbran",
+	"latitude": 51.65446,
+	"longitude": -3.02281,
+	"population": 48157,
+	"elevation": 0,
+	"dislikes_normalized": 57.3072394214066
+}, {
+	"key": "Coventry",
+	"latitude": 52.40656,
+	"longitude": -1.51217,
+	"population": 308313,
+	"elevation": 0,
+	"dislikes_normalized": 57.25874619307384
+}, {
+	"key": "Uttoxeter",
+	"latitude": 52.89838,
+	"longitude": -1.86488,
+	"population": 12291,
+	"elevation": 0,
+	"dislikes_normalized": 57.201277882699685
+}, {
+	"key": "Wakefield",
+	"latitude": 53.68331,
+	"longitude": -1.49768,
+	"population": 78978,
+	"elevation": 0,
+	"dislikes_normalized": 57.189096942544396
+}, {
+	"key": "Sidmouth",
+	"latitude": 50.69094,
+	"longitude": -3.2397,
+	"population": 11853,
+	"elevation": 0,
+	"dislikes_normalized": 57.18641855068667
+}, {
+	"key": "Northwich",
+	"latitude": 53.25882,
+	"longitude": -2.52025,
+	"population": 42113,
+	"elevation": 0,
+	"dislikes_normalized": 57.17042530526716
+}, {
+	"key": "Daventry",
+	"latitude": 52.25688,
+	"longitude": -1.16066,
+	"population": 22215,
+	"elevation": 0,
+	"dislikes_normalized": 57.10590250753536
+}, {
+	"key": "Redditch",
+	"latitude": 52.3065,
+	"longitude": -1.94569,
+	"population": 77128,
+	"elevation": 0,
+	"dislikes_normalized": 57.0958566660088
+}, {
+	"key": "Wymondham",
+	"latitude": 52.75978,
+	"longitude": -0.74055,
+	"population": 11674,
+	"elevation": 0,
+	"dislikes_normalized": 57.017847029289335
+}, {
+	"key": "Hurstpierpoint",
+	"latitude": 50.93388,
+	"longitude": -0.18007,
+	"population": 11391,
+	"elevation": 0,
+	"dislikes_normalized": 56.96927138292711
+}, {
+	"key": "Sleaford",
+	"latitude": 52.99826,
+	"longitude": -0.40941,
+	"population": 15558,
+	"elevation": 0,
+	"dislikes_normalized": 56.56029975782637
+}, {
+	"key": "Maesteg",
+	"latitude": 51.60926,
+	"longitude": -3.65823,
+	"population": 17829,
+	"elevation": 0,
+	"dislikes_normalized": 56.518254961623214
+}, {
+	"key": "Lancing",
+	"latitude": 50.82882,
+	"longitude": -0.32247,
+	"population": 18692,
+	"elevation": 0,
+	"dislikes_normalized": 56.1962796273025
+}, {
+	"key": "Barking",
+	"latitude": 51.53333,
+	"longitude": 0.08333,
+	"population": 61000,
+	"elevation": 0,
+	"dislikes_normalized": 55.8892699378249
+}, {
+	"key": "Folkestone",
+	"latitude": 51.08169,
+	"longitude": 1.16734,
+	"population": 45992,
+	"elevation": 0,
+	"dislikes_normalized": 55.87602161854972
+}, {
+	"key": "Middlesbrough",
+	"latitude": 54.57623,
+	"longitude": -1.23483,
+	"population": 142707,
+	"elevation": 0,
+	"dislikes_normalized": 55.3599726790802
+}, {
+	"key": "Dagenham",
+	"latitude": 51.55,
+	"longitude": 0.16667,
+	"population": 108368,
+	"elevation": 0,
+	"dislikes_normalized": 55.34401377237312
+}, {
+	"key": "Dundee",
+	"latitude": 56.46913,
+	"longitude": -2.97489,
+	"population": 151592,
+	"elevation": 0,
+	"dislikes_normalized": 55.31289912073011
+}, {
+	"key": "Bracknell",
+	"latitude": 51.41363,
+	"longitude": -0.75054,
+	"population": 76103,
+	"elevation": 0,
+	"dislikes_normalized": 55.226178380772836
+}, {
+	"key": "Heywood",
+	"latitude": 53.59245,
+	"longitude": -2.21941,
+	"population": 28024,
+	"elevation": 0,
+	"dislikes_normalized": 55.18265232187922
+}, {
+	"key": "Lichfield",
+	"latitude": 52.68154,
+	"longitude": -1.82549,
+	"population": 28973,
+	"elevation": 0,
+	"dislikes_normalized": 54.96574249780709
+}, {
+	"key": "Salford",
+	"latitude": 53.48771,
+	"longitude": -2.29042,
+	"population": 72750,
+	"elevation": 0,
+	"dislikes_normalized": 54.683632446688506
+}, {
+	"key": "Wells",
+	"latitude": 51.20794,
+	"longitude": -2.64896,
+	"population": 10638,
+	"elevation": 0,
+	"dislikes_normalized": 54.22934799580587
+}, {
+	"key": "Huddersfield",
+	"latitude": 53.64904,
+	"longitude": -1.78416,
+	"population": 149017,
+	"elevation": 0,
+	"dislikes_normalized": 53.776173918511546
+}, {
+	"key": "Gillingham",
+	"latitude": 51.38914,
+	"longitude": 0.54863,
+	"population": 101187,
+	"elevation": 0,
+	"dislikes_normalized": 53.44846263439968
+}, {
+	"key": "Thetford",
+	"latitude": 52.41667,
+	"longitude": 0.75,
+	"population": 21588,
+	"elevation": 0,
+	"dislikes_normalized": 53.332863489438026
+}, {
+	"key": "Morpeth",
+	"latitude": 55.16882,
+	"longitude": -1.68893,
+	"population": 13857,
+	"elevation": 0,
+	"dislikes_normalized": 53.24159753818417
+}, {
+	"key": "Irvine",
+	"latitude": 55.6194,
+	"longitude": -4.65508,
+	"population": 32748,
+	"elevation": 0,
+	"dislikes_normalized": 53.11642666051205
+}, {
+	"key": "Nantwich",
+	"latitude": 53.06878,
+	"longitude": -2.52051,
+	"population": 13746,
+	"elevation": 0,
+	"dislikes_normalized": 53.103387429161394
+}, {
+	"key": "Newquay",
+	"latitude": 50.41557,
+	"longitude": -5.07319,
+	"population": 19998,
+	"elevation": 0,
+	"dislikes_normalized": 53.02132867446687
+}, {
+	"key": "Shepshed",
+	"latitude": 52.7657,
+	"longitude": -1.29021,
+	"population": 13169,
+	"elevation": 0,
+	"dislikes_normalized": 52.83154101091478
+}, {
+	"key": "Newport Pagnell",
+	"latitude": 52.08731,
+	"longitude": -0.72218,
+	"population": 15067,
+	"elevation": 0,
+	"dislikes_normalized": 52.79294894404069
+}, {
+	"key": "Portsmouth",
+	"latitude": 50.79899,
+	"longitude": -1.09125,
+	"population": 194150,
+	"elevation": 0,
+	"dislikes_normalized": 52.77720582339302
+}, {
+	"key": "Hinckley",
+	"latitude": 52.5389,
+	"longitude": -1.37613,
+	"population": 45130,
+	"elevation": 0,
+	"dislikes_normalized": 52.758229673554865
+}, {
+	"key": "Torquay",
+	"latitude": 50.46384,
+	"longitude": -3.51434,
+	"population": 65388,
+	"elevation": 0,
+	"dislikes_normalized": 52.27696585917045
+}, {
+	"key": "Wilmslow",
+	"latitude": 53.32803,
+	"longitude": -2.23148,
+	"population": 36617,
+	"elevation": 0,
+	"dislikes_normalized": 52.07700683546364
+}, {
+	"key": "Leominster",
+	"latitude": 52.22583,
+	"longitude": -2.74491,
+	"population": 10673,
+	"elevation": 0,
+	"dislikes_normalized": 52.053419918577234
+}, {
+	"key": "Worksop",
+	"latitude": 53.30182,
+	"longitude": -1.12404,
+	"population": 40443,
+	"elevation": 0,
+	"dislikes_normalized": 51.872908956517215
+}, {
+	"key": "Tadley",
+	"latitude": 51.35045,
+	"longitude": -1.1285,
+	"population": 15990,
+	"elevation": 0,
+	"dislikes_normalized": 51.621717241625575
+}, {
+	"key": "Wolverhampton",
+	"latitude": 52.58547,
+	"longitude": -2.12296,
+	"population": 252791,
+	"elevation": 0,
+	"dislikes_normalized": 51.273835116326794
+}, {
+	"key": "Armagh",
+	"latitude": 54.35,
+	"longitude": -6.66667,
+	"population": 14801,
+	"elevation": 0,
+	"dislikes_normalized": 51.24986816369366
+}, {
+	"key": "Ripon",
+	"latitude": 54.13579,
+	"longitude": -1.52826,
+	"population": 16835,
+	"elevation": 0,
+	"dislikes_normalized": 51.07527237546886
+}, {
+	"key": "Johnstone",
+	"latitude": 55.82906,
+	"longitude": -4.51605,
+	"population": 15705,
+	"elevation": 0,
+	"dislikes_normalized": 51.05404646324379
+}, {
+	"key": "Skelmersdale",
+	"latitude": 53.55024,
+	"longitude": -2.77348,
+	"population": 38944,
+	"elevation": 0,
+	"dislikes_normalized": 50.85672478555243
+}, {
+	"key": "Scunthorpe",
+	"latitude": 53.57905,
+	"longitude": -0.65437,
+	"population": 72514,
+	"elevation": 0,
+	"dislikes_normalized": 50.65288938617268
+}, {
+	"key": "Dungannon",
+	"latitude": 54.50344,
+	"longitude": -6.76723,
+	"population": 11935,
+	"elevation": 0,
+	"dislikes_normalized": 50.55498633754105
+}, {
+	"key": "Dartford",
+	"latitude": 51.44657,
+	"longitude": 0.21423,
+	"population": 56694,
+	"elevation": 0,
+	"dislikes_normalized": 50.382980513153285
+}, {
+	"key": "Consett",
+	"latitude": 54.85404,
+	"longitude": -1.8316,
+	"population": 21016,
+	"elevation": 0,
+	"dislikes_normalized": 50.019342238507946
+}, {
+	"key": "Swindon",
+	"latitude": 51.55797,
+	"longitude": -1.78116,
+	"population": 155432,
+	"elevation": 0,
+	"dislikes_normalized": 49.96220327145581
+}, {
+	"key": "Southall",
+	"latitude": 51.50896,
+	"longitude": -0.3713,
+	"population": 70000,
+	"elevation": 0,
+	"dislikes_normalized": 49.958402007026166
+}, {
+	"key": "Rochdale",
+	"latitude": 53.61766,
+	"longitude": -2.1552,
+	"population": 97550,
+	"elevation": 0,
+	"dislikes_normalized": 49.84796781513064
+}, {
+	"key": "Basildon",
+	"latitude": 51.56844,
+	"longitude": 0.45782,
+	"population": 101362,
+	"elevation": 0,
+	"dislikes_normalized": 49.774482605748545
+}, {
+	"key": "Tilbury",
+	"latitude": 51.46248,
+	"longitude": 0.35856,
+	"population": 11717,
+	"elevation": 0,
+	"dislikes_normalized": 49.744387606516455
+}, {
+	"key": "Abbots Langley",
+	"latitude": 51.70573,
+	"longitude": -0.41757,
+	"population": 10472,
+	"elevation": 0,
+	"dislikes_normalized": 49.55957605201506
+}, {
+	"key": "Margate",
+	"latitude": 51.38132,
+	"longitude": 1.38617,
+	"population": 60134,
+	"elevation": 0,
+	"dislikes_normalized": 49.225066946681864
+}, {
+	"key": "Mexborough",
+	"latitude": 53.49389,
+	"longitude": -1.29243,
+	"population": 15079,
+	"elevation": 0,
+	"dislikes_normalized": 49.08645153282257
+}, {
+	"key": "Witham",
+	"latitude": 51.80007,
+	"longitude": 0.64038,
+	"population": 22995,
+	"elevation": 0,
+	"dislikes_normalized": 48.971270292691415
+}, {
+	"key": "Keighley",
+	"latitude": 53.86791,
+	"longitude": -1.90664,
+	"population": 50171,
+	"elevation": 0,
+	"dislikes_normalized": 48.96162049703065
+}, {
+	"key": "Romsey",
+	"latitude": 50.98906,
+	"longitude": -1.49989,
+	"population": 17773,
+	"elevation": 0,
+	"dislikes_normalized": 48.752212681274514
+}, {
+	"key": "Droitwich",
+	"latitude": 52.26667,
+	"longitude": -2.15,
+	"population": 23588,
+	"elevation": 0,
+	"dislikes_normalized": 48.65313295265659
+}, {
+	"key": "Sandy",
+	"latitude": 52.12927,
+	"longitude": -0.28925,
+	"population": 11129,
+	"elevation": 0,
+	"dislikes_normalized": 48.4641358106508
+}, {
+	"key": "Fleet",
+	"latitude": 51.28333,
+	"longitude": -0.83333,
+	"population": 34218,
+	"elevation": 0,
+	"dislikes_normalized": 48.41801516918872
+}, {
+	"key": "Epping",
+	"latitude": 51.69815,
+	"longitude": 0.11055,
+	"population": 10109,
+	"elevation": 0,
+	"dislikes_normalized": 48.38643075095714
+}, {
+	"key": "Louth",
+	"latitude": 53.36664,
+	"longitude": -0.00438,
+	"population": 16635,
+	"elevation": 0,
+	"dislikes_normalized": 48.2516202356327
+}, {
+	"key": "Walsall",
+	"latitude": 52.58528,
+	"longitude": -1.98396,
+	"population": 172141,
+	"elevation": 0,
+	"dislikes_normalized": 48.18916855365581
+}, {
+	"key": "Kidderminster",
+	"latitude": 52.38819,
+	"longitude": -2.25,
+	"population": 56657,
+	"elevation": 0,
+	"dislikes_normalized": 48.142089946586545
+}, {
+	"key": "Sunderland",
+	"latitude": 54.90465,
+	"longitude": -1.38222,
+	"population": 177965,
+	"elevation": 0,
+	"dislikes_normalized": 48.0217975491171
+}, {
+	"key": "Ramsgate",
+	"latitude": 51.33568,
+	"longitude": 1.41797,
+	"population": 38624,
+	"elevation": 0,
+	"dislikes_normalized": 47.984479808285116
+}, {
+	"key": "Barnstaple",
+	"latitude": 51.08022,
+	"longitude": -4.05808,
+	"population": 32532,
+	"elevation": 0,
+	"dislikes_normalized": 47.58179768358724
+}, {
+	"key": "Leatherhead",
+	"latitude": 51.29652,
+	"longitude": -0.3338,
+	"population": 43544,
+	"elevation": 0,
+	"dislikes_normalized": 47.42959159331963
+}, {
+	"key": "Redhill",
+	"latitude": 51.24048,
+	"longitude": -0.17044,
+	"population": 51559,
+	"elevation": 0,
+	"dislikes_normalized": 47.35020433179534
+}, {
+	"key": "Halifax",
+	"latitude": 53.71667,
+	"longitude": -1.85,
+	"population": 82624,
+	"elevation": 0,
+	"dislikes_normalized": 47.25720676802885
+}, {
+	"key": "Retford",
+	"latitude": 53.32213,
+	"longitude": -0.94315,
+	"population": 21897,
+	"elevation": 0,
+	"dislikes_normalized": 47.23942262151127
+}, {
+	"key": "Troon",
+	"latitude": 55.54359,
+	"longitude": -4.66335,
+	"population": 14900,
+	"elevation": 0,
+	"dislikes_normalized": 47.16591918380323
+}, {
+	"key": "Greenock",
+	"latitude": 55.94838,
+	"longitude": -4.76121,
+	"population": 43495,
+	"elevation": 0,
+	"dislikes_normalized": 46.961137338855345
+}, {
+	"key": "Clitheroe",
+	"latitude": 53.86667,
+	"longitude": -2.4,
+	"population": 15024,
+	"elevation": 0,
+	"dislikes_normalized": 46.90396523834346
+}, {
+	"key": "Whitby",
+	"latitude": 54.48774,
+	"longitude": -0.61498,
+	"population": 13897,
+	"elevation": 0,
+	"dislikes_normalized": 46.84117312958136
+}, {
+	"key": "Prescot",
+	"latitude": 53.42948,
+	"longitude": -2.80031,
+	"population": 40889,
+	"elevation": 0,
+	"dislikes_normalized": 46.7511032190352
+}, {
+	"key": "Rushden",
+	"latitude": 52.28927,
+	"longitude": -0.60184,
+	"population": 26307,
+	"elevation": 0,
+	"dislikes_normalized": 46.65599584024181
+}, {
+	"key": "Biggleswade",
+	"latitude": 52.08652,
+	"longitude": -0.26493,
+	"population": 15726,
+	"elevation": 0,
+	"dislikes_normalized": 46.52194584952471
+}, {
+	"key": "Cramlington",
+	"latitude": 55.08652,
+	"longitude": -1.58598,
+	"population": 29985,
+	"elevation": 0,
+	"dislikes_normalized": 46.37343969741803
+}, {
+	"key": "Blackpool",
+	"latitude": 53.81667,
+	"longitude": -3.05,
+	"population": 143101,
+	"elevation": 0,
+	"dislikes_normalized": 46.32042207715166
+}, {
+	"key": "Ellesmere Port",
+	"latitude": 53.27875,
+	"longitude": -2.90134,
+	"population": 67768,
+	"elevation": 0,
+	"dislikes_normalized": 46.242663584862065
+}, {
+	"key": "Carrickfergus",
+	"latitude": 54.7158,
+	"longitude": -5.8058,
+	"population": 29208,
+	"elevation": 0,
+	"dislikes_normalized": 46.01272627637188
+}, {
+	"key": "Kirkcaldy",
+	"latitude": 56.11683,
+	"longitude": -3.15999,
+	"population": 46912,
+	"elevation": 0,
+	"dislikes_normalized": 45.99046318243304
+}, {
+	"key": "Burnley",
+	"latitude": 53.8,
+	"longitude": -2.23333,
+	"population": 73480,
+	"elevation": 0,
+	"dislikes_normalized": 45.976839443045634
+}, {
+	"key": "Ballymena",
+	"latitude": 54.86357,
+	"longitude": -6.27628,
+	"population": 28932,
+	"elevation": 0,
+	"dislikes_normalized": 45.9078946466337
+}, {
+	"key": "Beckenham",
+	"latitude": 51.40878,
+	"longitude": -0.02526,
+	"population": 82000,
+	"elevation": 0,
+	"dislikes_normalized": 45.87161848890814
+}, {
+	"key": "Hyde",
+	"latitude": 53.45131,
+	"longitude": -2.07943,
+	"population": 31926,
+	"elevation": 0,
+	"dislikes_normalized": 45.78380771458641
+}, {
+	"key": "Stevenage",
+	"latitude": 51.90224,
+	"longitude": -0.20256,
+	"population": 84651,
+	"elevation": 0,
+	"dislikes_normalized": 45.75926402779772
+}, {
+	"key": "Whitehaven",
+	"latitude": 54.54897,
+	"longitude": -3.58412,
+	"population": 24803,
+	"elevation": 0,
+	"dislikes_normalized": 45.65820256852813
+}, {
+	"key": "Belper",
+	"latitude": 53.0233,
+	"longitude": -1.48119,
+	"population": 22427,
+	"elevation": 0,
+	"dislikes_normalized": 45.52879038302622
+}, {
+	"key": "Tamworth",
+	"latitude": 52.63399,
+	"longitude": -1.69587,
+	"population": 74129,
+	"elevation": 0,
+	"dislikes_normalized": 45.45472908813526
+}, {
+	"key": "Leighton Buzzard",
+	"latitude": 51.91722,
+	"longitude": -0.65802,
+	"population": 33467,
+	"elevation": 0,
+	"dislikes_normalized": 45.32385021065652
+}, {
+	"key": "Eastleigh",
+	"latitude": 50.96667,
+	"longitude": -1.35,
+	"population": 54225,
+	"elevation": 0,
+	"dislikes_normalized": 45.29876926516522
+}, {
+	"key": "Bishop Auckland",
+	"latitude": 54.65554,
+	"longitude": -1.67706,
+	"population": 25665,
+	"elevation": 0,
+	"dislikes_normalized": 45.162540866912
+}, {
+	"key": "Haverhill",
+	"latitude": 52.08226,
+	"longitude": 0.43891,
+	"population": 22500,
+	"elevation": 0,
+	"dislikes_normalized": 45.16032841864062
+}, {
+	"key": "Paignton",
+	"latitude": 50.43565,
+	"longitude": -3.56789,
+	"population": 49886,
+	"elevation": 0,
+	"dislikes_normalized": 45.160046899066685
+}, {
+	"key": "Saffron Walden",
+	"latitude": 52.02337,
+	"longitude": 0.24234,
+	"population": 14632,
+	"elevation": 0,
+	"dislikes_normalized": 45.09242081732908
+}, {
+	"key": "Stalybridge",
+	"latitude": 53.48414,
+	"longitude": -2.05908,
+	"population": 22748,
+	"elevation": 0,
+	"dislikes_normalized": 44.9940337164318
+}, {
+	"key": "Cannock",
+	"latitude": 52.69045,
+	"longitude": -2.03085,
+	"population": 68067,
+	"elevation": 0,
+	"dislikes_normalized": 44.867113568478075
+}, {
+	"key": "Hockley",
+	"latitude": 52.5,
+	"longitude": -1.91667,
+	"population": 13919,
+	"elevation": 0,
+	"dislikes_normalized": 44.71527215724036
+}, {
+	"key": "Musselburgh",
+	"latitude": 55.9417,
+	"longitude": -3.04991,
+	"population": 22656,
+	"elevation": 0,
+	"dislikes_normalized": 44.686690919074834
+}, {
+	"key": "Galashiels",
+	"latitude": 55.61458,
+	"longitude": -2.80695,
+	"population": 14351,
+	"elevation": 0,
+	"dislikes_normalized": 44.56729415744751
+}, {
+	"key": "Abertillery",
+	"latitude": 51.72981,
+	"longitude": -3.13432,
+	"population": 11318,
+	"elevation": 0,
+	"dislikes_normalized": 44.50192924198929
+}, {
+	"key": "Brackley",
+	"latitude": 52.03333,
+	"longitude": -1.15,
+	"population": 13628,
+	"elevation": 0,
+	"dislikes_normalized": 44.49894531531608
+}, {
+	"key": "Dukinfield",
+	"latitude": 53.47497,
+	"longitude": -2.08809,
+	"population": 19306,
+	"elevation": 0,
+	"dislikes_normalized": 44.44815961491986
+}, {
+	"key": "Macclesfield",
+	"latitude": 53.26023,
+	"longitude": -2.12564,
+	"population": 51739,
+	"elevation": 0,
+	"dislikes_normalized": 44.30986014381887
+}, {
+	"key": "Holyhead",
+	"latitude": 53.30621,
+	"longitude": -4.63211,
+	"population": 11362,
+	"elevation": 0,
+	"dislikes_normalized": 44.07014535848501
+}, {
+	"key": "Leigh",
+	"latitude": 53.49642,
+	"longitude": -2.51973,
+	"population": 43626,
+	"elevation": 0,
+	"dislikes_normalized": 43.90798723444949
+}, {
+	"key": "Kilmarnock",
+	"latitude": 55.61171,
+	"longitude": -4.49581,
+	"population": 42904,
+	"elevation": 0,
+	"dislikes_normalized": 43.70110310636582
+}, {
+	"key": "Telford",
+	"latitude": 52.67659,
+	"longitude": -2.44926,
+	"population": 138241,
+	"elevation": 0,
+	"dislikes_normalized": 43.6000456262895
+}, {
+	"key": "Nuneaton",
+	"latitude": 52.52323,
+	"longitude": -1.46523,
+	"population": 73555,
+	"elevation": 0,
+	"dislikes_normalized": 43.56846900463244
+}, {
+	"key": "Grays",
+	"latitude": 51.47566,
+	"longitude": 0.32521,
+	"population": 70934,
+	"elevation": 0,
+	"dislikes_normalized": 43.557702953162035
+}, {
+	"key": "Aldershot",
+	"latitude": 51.24827,
+	"longitude": -0.76389,
+	"population": 61339,
+	"elevation": 0,
+	"dislikes_normalized": 43.36293432103089
+}, {
+	"key": "Widnes",
+	"latitude": 53.3618,
+	"longitude": -2.73406,
+	"population": 56097,
+	"elevation": 0,
+	"dislikes_normalized": 43.30788559281951
+}, {
+	"key": "Eastbourne",
+	"latitude": 50.76871,
+	"longitude": 0.28453,
+	"population": 112906,
+	"elevation": 0,
+	"dislikes_normalized": 43.30547042658848
+}, {
+	"key": "Otley",
+	"latitude": 53.90553,
+	"longitude": -1.69383,
+	"population": 14668,
+	"elevation": 0,
+	"dislikes_normalized": 43.29188431146893
+}, {
+	"key": "Ferryhill",
+	"latitude": 54.68333,
+	"longitude": -1.55,
+	"population": 10789,
+	"elevation": 0,
+	"dislikes_normalized": 43.26974871372386
+}, {
+	"key": "Emsworth",
+	"latitude": 50.84779,
+	"longitude": -0.93697,
+	"population": 18543,
+	"elevation": 0,
+	"dislikes_normalized": 43.19012220520694
+}, {
+	"key": "Batley",
+	"latitude": 53.70291,
+	"longitude": -1.6337,
+	"population": 50807,
+	"elevation": 0,
+	"dislikes_normalized": 42.9838447609994
+}, {
+	"key": "Leyland",
+	"latitude": 53.69786,
+	"longitude": -2.68758,
+	"population": 37614,
+	"elevation": 0,
+	"dislikes_normalized": 42.66908606158453
+}, {
+	"key": "Weymouth",
+	"latitude": 50.61448,
+	"longitude": -2.45991,
+	"population": 50253,
+	"elevation": 0,
+	"dislikes_normalized": 42.6536543544798
+}, {
+	"key": "Minehead",
+	"latitude": 51.20452,
+	"longitude": -3.48284,
+	"population": 11960,
+	"elevation": 0,
+	"dislikes_normalized": 42.43377212054693
+}, {
+	"key": "North Walsham",
+	"latitude": 52.82121,
+	"longitude": 1.38746,
+	"population": 12109,
+	"elevation": 0,
+	"dislikes_normalized": 42.38594751730076
+}, {
+	"key": "Derby",
+	"latitude": 52.92277,
+	"longitude": -1.47663,
+	"population": 235029,
+	"elevation": 0,
+	"dislikes_normalized": 42.36412934114488
+}, {
+	"key": "Harlow",
+	"latitude": 51.77655,
+	"longitude": 0.11158,
+	"population": 94365,
+	"elevation": 0,
+	"dislikes_normalized": 42.32139318286661
+}, {
+	"key": "Cinderford",
+	"latitude": 51.82421,
+	"longitude": -2.4987,
+	"population": 10293,
+	"elevation": 0,
+	"dislikes_normalized": 42.238017432952965
+}, {
+	"key": "Harpenden",
+	"latitude": 51.81684,
+	"longitude": -0.35706,
+	"population": 28966,
+	"elevation": 0,
+	"dislikes_normalized": 42.177066439599045
+}, {
+	"key": "Tring",
+	"latitude": 51.79471,
+	"longitude": -0.65824,
+	"population": 12099,
+	"elevation": 0,
+	"dislikes_normalized": 42.08287725552072
+}, {
+	"key": "Bingley",
+	"latitude": 53.84861,
+	"longitude": -1.83857,
+	"population": 20327,
+	"elevation": 0,
+	"dislikes_normalized": 41.75365554455062
+}, {
+	"key": "Welling",
+	"latitude": 51.46246,
+	"longitude": 0.10759,
+	"population": 42500,
+	"elevation": 0,
+	"dislikes_normalized": 41.679246918985946
+}, {
+	"key": "Harrogate",
+	"latitude": 53.99078,
+	"longitude": -1.5373,
+	"population": 87024,
+	"elevation": 0,
+	"dislikes_normalized": 41.62001051664062
+}, {
+	"key": "Larkhall",
+	"latitude": 55.73333,
+	"longitude": -3.96667,
+	"population": 15410,
+	"elevation": 0,
+	"dislikes_normalized": 41.50561641297904
+}, {
+	"key": "Shepperton",
+	"latitude": 51.39546,
+	"longitude": -0.44889,
+	"population": 10106,
+	"elevation": 0,
+	"dislikes_normalized": 41.47904537526996
+}, {
+	"key": "Enniskillen",
+	"latitude": 54.34615,
+	"longitude": -7.64133,
+	"population": 14472,
+	"elevation": 0,
+	"dislikes_normalized": 41.21447946386667
+}, {
+	"key": "Mirfield",
+	"latitude": 53.67343,
+	"longitude": -1.69636,
+	"population": 18800,
+	"elevation": 0,
+	"dislikes_normalized": 41.21112825001643
+}, {
+	"key": "Elgin",
+	"latitude": 57.64947,
+	"longitude": -3.31843,
+	"population": 21236,
+	"elevation": 0,
+	"dislikes_normalized": 41.20459145743838
+}, {
+	"key": "Hook",
+	"latitude": 51.36803,
+	"longitude": -0.3065,
+	"population": 18973,
+	"elevation": 0,
+	"dislikes_normalized": 41.166378570959985
+}, {
+	"key": "Poole",
+	"latitude": 50.71429,
+	"longitude": -1.98458,
+	"population": 150092,
+	"elevation": 0,
+	"dislikes_normalized": 41.05605247839867
+}, {
+	"key": "Milford Haven",
+	"latitude": 51.71278,
+	"longitude": -5.0341,
+	"population": 12972,
+	"elevation": 0,
+	"dislikes_normalized": 40.96465446840894
+}, {
+	"key": "Bishops Stortford",
+	"latitude": 51.87113,
+	"longitude": 0.15868,
+	"population": 45001,
+	"elevation": 0,
+	"dislikes_normalized": 40.9487791398466
+}, {
+	"key": "Prestatyn",
+	"latitude": 53.33748,
+	"longitude": -3.40776,
+	"population": 18701,
+	"elevation": 0,
+	"dislikes_normalized": 40.896411614537165
+}, {
+	"key": "Runcorn",
+	"latitude": 53.34174,
+	"longitude": -2.73124,
+	"population": 59679,
+	"elevation": 0,
+	"dislikes_normalized": 40.85121553147024
+}, {
+	"key": "Wallsend",
+	"latitude": 54.99111,
+	"longitude": -1.53397,
+	"population": 42739,
+	"elevation": 0,
+	"dislikes_normalized": 40.775521897051945
+}, {
+	"key": "Merthyr Tydfil",
+	"latitude": 51.74794,
+	"longitude": -3.37779,
+	"population": 30821,
+	"elevation": 0,
+	"dislikes_normalized": 40.55436124786884
+}, {
+	"key": "Sevenoaks",
+	"latitude": 51.27266,
+	"longitude": 0.18883,
+	"population": 27871,
+	"elevation": 0,
+	"dislikes_normalized": 40.45611011647796
+}, {
+	"key": "Limavady",
+	"latitude": 55.05045,
+	"longitude": -6.95074,
+	"population": 12970,
+	"elevation": 0,
+	"dislikes_normalized": 40.40993957331692
+}, {
+	"key": "Dursley",
+	"latitude": 51.68139,
+	"longitude": -2.35333,
+	"population": 13652,
+	"elevation": 0,
+	"dislikes_normalized": 40.37620203521682
+}, {
+	"key": "Tipton",
+	"latitude": 52.52956,
+	"longitude": -2.06773,
+	"population": 47000,
+	"elevation": 0,
+	"dislikes_normalized": 40.294685393369626
+}, {
+	"key": "Wellington",
+	"latitude": 52.7,
+	"longitude": -2.51667,
+	"population": 22816,
+	"elevation": 0,
+	"dislikes_normalized": 40.23651994368195
+}, {
+	"key": "Whitley Bay",
+	"latitude": 55.03973,
+	"longitude": -1.44713,
+	"population": 38055,
+	"elevation": 0,
+	"dislikes_normalized": 39.99384874919242
+}, {
+	"key": "Oxted",
+	"latitude": 51.25687,
+	"longitude": -0.00601,
+	"population": 12856,
+	"elevation": 0,
+	"dislikes_normalized": 39.95635539166972
+}, {
+	"key": "Billingham",
+	"latitude": 54.58881,
+	"longitude": -1.29034,
+	"population": 35708,
+	"elevation": 0,
+	"dislikes_normalized": 39.93898678281725
+}, {
+	"key": "Ormskirk",
+	"latitude": 53.56685,
+	"longitude": -2.88178,
+	"population": 23792,
+	"elevation": 0,
+	"dislikes_normalized": 39.732189279180986
+}, {
+	"key": "Banbridge",
+	"latitude": 54.35,
+	"longitude": -6.28333,
+	"population": 16173,
+	"elevation": 0,
+	"dislikes_normalized": 39.72216601385345
+}, {
+	"key": "Kendal",
+	"latitude": 54.32681,
+	"longitude": -2.74757,
+	"population": 29468,
+	"elevation": 0,
+	"dislikes_normalized": 39.54777567565277
+}, {
+	"key": "Castleford",
+	"latitude": 53.72587,
+	"longitude": -1.36256,
+	"population": 39142,
+	"elevation": 0,
+	"dislikes_normalized": 39.443984922735076
+}, {
+	"key": "Caterham",
+	"latitude": 51.2823,
+	"longitude": -0.07889,
+	"population": 20957,
+	"elevation": 0,
+	"dislikes_normalized": 39.4218916755419
+}, {
+	"key": "Brighouse",
+	"latitude": 53.70322,
+	"longitude": -1.78428,
+	"population": 32872,
+	"elevation": 0,
+	"dislikes_normalized": 39.09072773931927
+}, {
+	"key": "Lymington",
+	"latitude": 50.75767,
+	"longitude": -1.5443,
+	"population": 14544,
+	"elevation": 0,
+	"dislikes_normalized": 39.09008907109034
+}, {
+	"key": "Clydebank",
+	"latitude": 55.90137,
+	"longitude": -4.4057,
+	"population": 29867,
+	"elevation": 0,
+	"dislikes_normalized": 38.88120544789783
+}, {
+	"key": "Hull",
+	"latitude": 53.7446,
+	"longitude": -0.33525,
+	"population": 302296,
+	"elevation": 0,
+	"dislikes_normalized": 38.83783531522674
+}, {
+	"key": "Ryde",
+	"latitude": 50.72999,
+	"longitude": -1.1621,
+	"population": 24107,
+	"elevation": 0,
+	"dislikes_normalized": 38.75169642995169
+}, {
+	"key": "Goole",
+	"latitude": 53.70324,
+	"longitude": -0.87732,
+	"population": 19158,
+	"elevation": 0,
+	"dislikes_normalized": 38.71729359242699
+}, {
+	"key": "Woodbridge",
+	"latitude": 52.09332,
+	"longitude": 1.32042,
+	"population": 11200,
+	"elevation": 0,
+	"dislikes_normalized": 38.70337922598795
+}, {
+	"key": "Middlewich",
+	"latitude": 53.19296,
+	"longitude": -2.44402,
+	"population": 13393,
+	"elevation": 0,
+	"dislikes_normalized": 38.621076618091024
+}, {
+	"key": "Ivybridge",
+	"latitude": 50.39039,
+	"longitude": -3.91914,
+	"population": 13277,
+	"elevation": 0,
+	"dislikes_normalized": 38.21595100561852
+}, {
+	"key": "Halesowen",
+	"latitude": 52.44859,
+	"longitude": -2.04938,
+	"population": 55265,
+	"elevation": 0,
+	"dislikes_normalized": 38.14795380802892
+}, {
+	"key": "Dumbarton",
+	"latitude": 55.94433,
+	"longitude": -4.57061,
+	"population": 19878,
+	"elevation": 0,
+	"dislikes_normalized": 37.69219521701926
+}, {
+	"key": "Stanley",
+	"latitude": 54.86796,
+	"longitude": -1.69846,
+	"population": 16200,
+	"elevation": 0,
+	"dislikes_normalized": 37.631113078443526
+}, {
+	"key": "Dewsbury",
+	"latitude": 53.69076,
+	"longitude": -1.62907,
+	"population": 56640,
+	"elevation": 0,
+	"dislikes_normalized": 37.08947588732003
+}, {
+	"key": "Heanor",
+	"latitude": 53.01372,
+	"longitude": -1.35383,
+	"population": 23122,
+	"elevation": 0,
+	"dislikes_normalized": 36.970940210417666
+}, {
+	"key": "Newtownards",
+	"latitude": 54.59236,
+	"longitude": -5.69092,
+	"population": 29363,
+	"elevation": 0,
+	"dislikes_normalized": 36.89493321216355
+}, {
+	"key": "South Shields",
+	"latitude": 54.99859,
+	"longitude": -1.4323,
+	"population": 83655,
+	"elevation": 0,
+	"dislikes_normalized": 36.653446577358714
+}, {
+	"key": "Solihull",
+	"latitude": 52.41426,
+	"longitude": -1.78094,
+	"population": 96267,
+	"elevation": 0,
+	"dislikes_normalized": 36.592774686556204
+}, {
+	"key": "Exmouth",
+	"latitude": 50.61723,
+	"longitude": -3.40233,
+	"population": 32972,
+	"elevation": 0,
+	"dislikes_normalized": 36.409145378968304
+}, {
+	"key": "Abergavenny",
+	"latitude": 51.82098,
+	"longitude": -3.01743,
+	"population": 14211,
+	"elevation": 0,
+	"dislikes_normalized": 36.40794335229137
+}, {
+	"key": "Bourne",
+	"latitude": 52.76667,
+	"longitude": -0.38333,
+	"population": 12060,
+	"elevation": 0,
+	"dislikes_normalized": 36.37683809825726
+}, {
+	"key": "King's Lynn",
+	"latitude": 52.75172,
+	"longitude": 0.39516,
+	"population": 34564,
+	"elevation": 0,
+	"dislikes_normalized": 36.35907933387328
+}, {
+	"key": "Craigavon",
+	"latitude": 54.44709,
+	"longitude": -6.387,
+	"population": 59236,
+	"elevation": 0,
+	"dislikes_normalized": 36.12427004485339
+}, {
+	"key": "Sutton Coldfield",
+	"latitude": 52.56667,
+	"longitude": -1.81667,
+	"population": 107030,
+	"elevation": 0,
+	"dislikes_normalized": 36.09129816820375
+}, {
+	"key": "Havant",
+	"latitude": 50.8567,
+	"longitude": -0.98559,
+	"population": 45574,
+	"elevation": 0,
+	"dislikes_normalized": 36.08547130794648
+}, {
+	"key": "Verwood",
+	"latitude": 50.87575,
+	"longitude": -1.87023,
+	"population": 12338,
+	"elevation": 0,
+	"dislikes_normalized": 35.85797972879193
+}, {
+	"key": "Renfrew",
+	"latitude": 55.87197,
+	"longitude": -4.39253,
+	"population": 19894,
+	"elevation": 0,
+	"dislikes_normalized": 35.79713043757965
+}, {
+	"key": "Melksham",
+	"latitude": 51.37281,
+	"longitude": -2.14002,
+	"population": 14692,
+	"elevation": 0,
+	"dislikes_normalized": 35.76288981735878
+}, {
+	"key": "Prudhoe",
+	"latitude": 54.96154,
+	"longitude": -1.85168,
+	"population": 10669,
+	"elevation": 0,
+	"dislikes_normalized": 35.63875940141929
+}, {
+	"key": "Paisley",
+	"latitude": 55.83173,
+	"longitude": -4.43254,
+	"population": 73074,
+	"elevation": 0,
+	"dislikes_normalized": 35.498492942584974
+}, {
+	"key": "South Ockendon",
+	"latitude": 51.50799,
+	"longitude": 0.28333,
+	"population": 18069,
+	"elevation": 0,
+	"dislikes_normalized": 35.389389660954464
+}, {
+	"key": "Alfreton",
+	"latitude": 53.09766,
+	"longitude": -1.38376,
+	"population": 22550,
+	"elevation": 0,
+	"dislikes_normalized": 35.34712505284176
+}, {
+	"key": "Waterlooville",
+	"latitude": 50.88067,
+	"longitude": -1.0304,
+	"population": 64350,
+	"elevation": 0,
+	"dislikes_normalized": 35.27338455443227
+}, {
+	"key": "Staines",
+	"latitude": 51.43092,
+	"longitude": -0.50606,
+	"population": 51040,
+	"elevation": 0,
+	"dislikes_normalized": 35.13702449962912
+}, {
+	"key": "Wickford",
+	"latitude": 51.61101,
+	"longitude": 0.52331,
+	"population": 32975,
+	"elevation": 0,
+	"dislikes_normalized": 35.10696209654601
+}, {
+	"key": "Marlow",
+	"latitude": 51.56933,
+	"longitude": -0.77415,
+	"population": 17912,
+	"elevation": 0,
+	"dislikes_normalized": 35.03771498207185
+}, {
+	"key": "Sandown",
+	"latitude": 50.65158,
+	"longitude": -1.16103,
+	"population": 20155,
+	"elevation": 0,
+	"dislikes_normalized": 34.63832639257705
+}, {
+	"key": "Chessington",
+	"latitude": 51.3624,
+	"longitude": -0.30427,
+	"population": 19433,
+	"elevation": 0,
+	"dislikes_normalized": 34.52510133840316
+}, {
+	"key": "Carluke",
+	"latitude": 55.73595,
+	"longitude": -3.83019,
+	"population": 13465,
+	"elevation": 0,
+	"dislikes_normalized": 34.49652540567447
+}, {
+	"key": "Cleethorpes",
+	"latitude": 53.56047,
+	"longitude": -0.03225,
+	"population": 32017,
+	"elevation": 0,
+	"dislikes_normalized": 34.48524552771697
+}, {
+	"key": "Coulsdon",
+	"latitude": 51.32002,
+	"longitude": -0.14088,
+	"population": 25500,
+	"elevation": 0,
+	"dislikes_normalized": 34.375761114230215
+}, {
+	"key": "Bognor Regis",
+	"latitude": 50.78206,
+	"longitude": -0.67978,
+	"population": 65391,
+	"elevation": 0,
+	"dislikes_normalized": 34.2758913549834
+}, {
+	"key": "Wallasey",
+	"latitude": 53.42324,
+	"longitude": -3.06497,
+	"population": 58794,
+	"elevation": 0,
+	"dislikes_normalized": 34.016099596712955
+}, {
+	"key": "Great Yarmouth",
+	"latitude": 52.60831,
+	"longitude": 1.73052,
+	"population": 59601,
+	"elevation": 0,
+	"dislikes_normalized": 33.814716272512214
+}, {
+	"key": "Purfleet",
+	"latitude": 51.4839,
+	"longitude": 0.24247,
+	"population": 12000,
+	"elevation": 0,
+	"dislikes_normalized": 33.43080283323432
+}, {
+	"key": "Pontypool",
+	"latitude": 51.70111,
+	"longitude": -3.04444,
+	"population": 35686,
+	"elevation": 0,
+	"dislikes_normalized": 33.14271579970318
+}, {
+	"key": "Rugeley",
+	"latitude": 52.7593,
+	"longitude": -1.93694,
+	"population": 22937,
+	"elevation": 0,
+	"dislikes_normalized": 33.11219143357611
+}, {
+	"key": "Ebbw Vale",
+	"latitude": 51.77714,
+	"longitude": -3.20792,
+	"population": 18345,
+	"elevation": 0,
+	"dislikes_normalized": 32.87245507126904
+}, {
+	"key": "Congleton",
+	"latitude": 53.16314,
+	"longitude": -2.21253,
+	"population": 26030,
+	"elevation": 0,
+	"dislikes_normalized": 32.742276709301066
+}, {
+	"key": "Redcar",
+	"latitude": 54.61657,
+	"longitude": -1.05999,
+	"population": 37203,
+	"elevation": 0,
+	"dislikes_normalized": 32.31642868024298
+}, {
+	"key": "Hoddesdon",
+	"latitude": 51.76148,
+	"longitude": -0.01144,
+	"population": 35174,
+	"elevation": 0,
+	"dislikes_normalized": 31.70330572372029
+}, {
+	"key": "Coleraine",
+	"latitude": 55.13333,
+	"longitude": -6.66667,
+	"population": 25681,
+	"elevation": 0,
+	"dislikes_normalized": 31.579795339674135
+}, {
+	"key": "Derry",
+	"latitude": 54.9981,
+	"longitude": -7.30934,
+	"population": 83652,
+	"elevation": 0,
+	"dislikes_normalized": 31.451859753145754
+}, {
+	"key": "Lisburn",
+	"latitude": 54.52337,
+	"longitude": -6.03527,
+	"population": 77506,
+	"elevation": 0,
+	"dislikes_normalized": 31.24474551686871
+}, {
+	"key": "Peterlee",
+	"latitude": 54.76032,
+	"longitude": -1.33649,
+	"population": 29979,
+	"elevation": 0,
+	"dislikes_normalized": 31.148202296776994
+}, {
+	"key": "Morecambe",
+	"latitude": 54.06835,
+	"longitude": -2.86108,
+	"population": 51644,
+	"elevation": 0,
+	"dislikes_normalized": 31.018471090184512
+}, {
+	"key": "Corby",
+	"latitude": 52.49637,
+	"longitude": -0.68939,
+	"population": 50029,
+	"elevation": 0,
+	"dislikes_normalized": 30.81169949288292
+}, {
+	"key": "Lowestoft",
+	"latitude": 52.4752,
+	"longitude": 1.75159,
+	"population": 71479,
+	"elevation": 0,
+	"dislikes_normalized": 30.667874468245028
+}, {
+	"key": "Burntwood",
+	"latitude": 52.68075,
+	"longitude": -1.92759,
+	"population": 29766,
+	"elevation": 0,
+	"dislikes_normalized": 30.65635358192933
+}, {
+	"key": "Penarth",
+	"latitude": 51.4386,
+	"longitude": -3.17342,
+	"population": 23437,
+	"elevation": 0,
+	"dislikes_normalized": 30.30714605191522
+}, {
+	"key": "Penicuik",
+	"latitude": 55.83116,
+	"longitude": -3.22608,
+	"population": 17011,
+	"elevation": 0,
+	"dislikes_normalized": 30.2888639933554
+}, {
+	"key": "Ayr",
+	"latitude": 55.46273,
+	"longitude": -4.63393,
+	"population": 45513,
+	"elevation": 0,
+	"dislikes_normalized": 30.149161092058463
+}, {
+	"key": "Carshalton",
+	"latitude": 51.36829,
+	"longitude": -0.16755,
+	"population": 45525,
+	"elevation": 0,
+	"dislikes_normalized": 29.6043795792351
+}, {
+	"key": "Coatbridge",
+	"latitude": 55.86216,
+	"longitude": -4.02469,
+	"population": 41170,
+	"elevation": 0,
+	"dislikes_normalized": 29.461895951728224
+}, {
+	"key": "Buckhurst Hill",
+	"latitude": 51.62409,
+	"longitude": 0.03262,
+	"population": 10738,
+	"elevation": 0,
+	"dislikes_normalized": 28.565198814762628
+}, {
+	"key": "Shildon",
+	"latitude": 54.62997,
+	"longitude": -1.64295,
+	"population": 10299,
+	"elevation": 0,
+	"dislikes_normalized": 28.514806304480327
+}, {
+	"key": "Horley",
+	"latitude": 51.17423,
+	"longitude": -0.15919,
+	"population": 21232,
+	"elevation": 0,
+	"dislikes_normalized": 28.503737967862715
+}, {
+	"key": "Beverley",
+	"latitude": 53.84587,
+	"longitude": -0.42332,
+	"population": 31968,
+	"elevation": 0,
+	"dislikes_normalized": 28.403194528465093
+}, {
+	"key": "Kenilworth",
+	"latitude": 52.34958,
+	"longitude": -1.58276,
+	"population": 22799,
+	"elevation": 0,
+	"dislikes_normalized": 28.38927797218851
+}, {
+	"key": "Birkenhead",
+	"latitude": 53.39337,
+	"longitude": -3.01479,
+	"population": 81805,
+	"elevation": 0,
+	"dislikes_normalized": 28.359086712684757
+}, {
+	"key": "Skegness",
+	"latitude": 53.14362,
+	"longitude": 0.3363,
+	"population": 17072,
+	"elevation": 0,
+	"dislikes_normalized": 28.345897700576536
+}, {
+	"key": "Brixham",
+	"latitude": 50.39431,
+	"longitude": -3.51585,
+	"population": 17846,
+	"elevation": 0,
+	"dislikes_normalized": 28.284353980920315
+}, {
+	"key": "Portslade",
+	"latitude": 50.84286,
+	"longitude": -0.21608,
+	"population": 20000,
+	"elevation": 0,
+	"dislikes_normalized": 27.844520375244898
+}, {
+	"key": "Willenhall",
+	"latitude": 52.58514,
+	"longitude": -2.05934,
+	"population": 27500,
+	"elevation": 0,
+	"dislikes_normalized": 27.647862156134202
+}, {
+	"key": "Largs",
+	"latitude": 55.79629,
+	"longitude": -4.86337,
+	"population": 11126,
+	"elevation": 0,
+	"dislikes_normalized": 27.536941120322005
+}, {
+	"key": "Broadstairs",
+	"latitude": 51.35908,
+	"longitude": 1.43938,
+	"population": 23283,
+	"elevation": 0,
+	"dislikes_normalized": 27.504844215799867
+}, {
+	"key": "Bebington",
+	"latitude": 53.35,
+	"longitude": -3.01667,
+	"population": 15768,
+	"elevation": 0,
+	"dislikes_normalized": 27.47516066364428
+}, {
+	"key": "Rochford",
+	"latitude": 51.58198,
+	"longitude": 0.70673,
+	"population": 16739,
+	"elevation": 0,
+	"dislikes_normalized": 27.4576770041782
+}, {
+	"key": "Clevedon",
+	"latitude": 51.44227,
+	"longitude": -2.85786,
+	"population": 22413,
+	"elevation": 0,
+	"dislikes_normalized": 27.409866449486614
+}, {
+	"key": "Ossett",
+	"latitude": 53.67978,
+	"longitude": -1.58006,
+	"population": 21616,
+	"elevation": 0,
+	"dislikes_normalized": 27.343083737361255
+}, {
+	"key": "Henlow",
+	"latitude": 52.03021,
+	"longitude": -0.28599,
+	"population": 12320,
+	"elevation": 0,
+	"dislikes_normalized": 27.182518582508393
+}, {
+	"key": "Banstead",
+	"latitude": 51.32233,
+	"longitude": -0.20685,
+	"population": 46280,
+	"elevation": 0,
+	"dislikes_normalized": 27.04687180250281
+}, {
+	"key": "Kilwinning",
+	"latitude": 55.65333,
+	"longitude": -4.70666,
+	"population": 16000,
+	"elevation": 0,
+	"dislikes_normalized": 27.0431714450331
+}, {
+	"key": "Hartlepool",
+	"latitude": 54.68611,
+	"longitude": -1.2125,
+	"population": 86713,
+	"elevation": 0,
+	"dislikes_normalized": 26.895100101557645
+}, {
+	"key": "Penzance",
+	"latitude": 50.11861,
+	"longitude": -5.53715,
+	"population": 20812,
+	"elevation": 0,
+	"dislikes_normalized": 26.722179639540357
+}, {
+	"key": "Cosham",
+	"latitude": 50.84654,
+	"longitude": -1.06344,
+	"population": 10226,
+	"elevation": 0,
+	"dislikes_normalized": 26.647635034845194
+}, {
+	"key": "Bridlington",
+	"latitude": 54.08306,
+	"longitude": -0.19192,
+	"population": 35057,
+	"elevation": 0,
+	"dislikes_normalized": 26.646110831783542
+}, {
+	"key": "Newtownabbey",
+	"latitude": 54.65983,
+	"longitude": -5.90858,
+	"population": 63860,
+	"elevation": 0,
+	"dislikes_normalized": 26.581976460064826
+}, {
+	"key": "Airdrie",
+	"latitude": 55.86602,
+	"longitude": -3.98025,
+	"population": 35440,
+	"elevation": 0,
+	"dislikes_normalized": 26.54009543168999
+}, {
+	"key": "Southport",
+	"latitude": 53.64581,
+	"longitude": -3.01008,
+	"population": 93044,
+	"elevation": 0,
+	"dislikes_normalized": 26.328893133638573
+}, {
+	"key": "Wishaw",
+	"latitude": 55.76667,
+	"longitude": -3.91667,
+	"population": 27627,
+	"elevation": 0,
+	"dislikes_normalized": 26.289180747857216
+}, {
+	"key": "Abergele",
+	"latitude": 53.28436,
+	"longitude": -3.5822,
+	"population": 17769,
+	"elevation": 0,
+	"dislikes_normalized": 26.063715234218506
+}, {
+	"key": "Porthcawl",
+	"latitude": 51.47903,
+	"longitude": -3.70362,
+	"population": 15813,
+	"elevation": 0,
+	"dislikes_normalized": 25.976758486329416
+}, {
+	"key": "Chislehurst",
+	"latitude": 51.41709,
+	"longitude": 0.06858,
+	"population": 20000,
+	"elevation": 0,
+	"dislikes_normalized": 25.714811180581563
+}, {
+	"key": "Spennymoor",
+	"latitude": 54.6988,
+	"longitude": -1.60229,
+	"population": 17655,
+	"elevation": 0,
+	"dislikes_normalized": 25.68207038648545
+}, {
+	"key": "Littlehampton",
+	"latitude": 50.81137,
+	"longitude": -0.54078,
+	"population": 58714,
+	"elevation": 0,
+	"dislikes_normalized": 25.547725594731524
+}, {
+	"key": "Ilfracombe",
+	"latitude": 51.2093,
+	"longitude": -4.11344,
+	"population": 10486,
+	"elevation": 0,
+	"dislikes_normalized": 25.234919750275523
+}, {
+	"key": "Bacup",
+	"latitude": 53.70336,
+	"longitude": -2.2007,
+	"population": 13047,
+	"elevation": 0,
+	"dislikes_normalized": 25.140638518769087
+}, {
+	"key": "Fleetwood",
+	"latitude": 53.92527,
+	"longitude": -3.01085,
+	"population": 27077,
+	"elevation": 0,
+	"dislikes_normalized": 24.58733271578013
+}, {
+	"key": "Llantrisant",
+	"latitude": 51.54028,
+	"longitude": -3.37389,
+	"population": 11001,
+	"elevation": 0,
+	"dislikes_normalized": 24.299870138510087
+}, {
+	"key": "Deal",
+	"latitude": 51.22322,
+	"longitude": 1.40432,
+	"population": 29248,
+	"elevation": 0,
+	"dislikes_normalized": 24.0117160388924
+}, {
+	"key": "Aberdare",
+	"latitude": 51.71438,
+	"longitude": -3.44918,
+	"population": 32756,
+	"elevation": 0,
+	"dislikes_normalized": 23.89565847426173
+}, {
+	"key": "Billericay",
+	"latitude": 51.62867,
+	"longitude": 0.41963,
+	"population": 34467,
+	"elevation": 0,
+	"dislikes_normalized": 23.870445620037977
+}, {
+	"key": "New Milton",
+	"latitude": 50.75601,
+	"longitude": -1.6658,
+	"population": 23753,
+	"elevation": 0,
+	"dislikes_normalized": 23.81898624777758
+}, {
+	"key": "Broxbourne",
+	"latitude": 51.74712,
+	"longitude": -0.01923,
+	"population": 13298,
+	"elevation": 0,
+	"dislikes_normalized": 23.79671528173815
+}, {
+	"key": "Barry",
+	"latitude": 51.39979,
+	"longitude": -3.2838,
+	"population": 51681,
+	"elevation": 0,
+	"dislikes_normalized": 23.71565073249539
+}, {
+	"key": "Pudsey",
+	"latitude": 53.79538,
+	"longitude": -1.66134,
+	"population": 33109,
+	"elevation": 0,
+	"dislikes_normalized": 23.578675437314686
+}, {
+	"key": "Hawick",
+	"latitude": 55.42273,
+	"longitude": -2.78666,
+	"population": 14053,
+	"elevation": 0,
+	"dislikes_normalized": 23.524332086827343
+}, {
+	"key": "Knottingley",
+	"latitude": 53.70778,
+	"longitude": -1.25639,
+	"population": 13804,
+	"elevation": 0,
+	"dislikes_normalized": 23.28011946278665
+}, {
+	"key": "Leek",
+	"latitude": 53.10434,
+	"longitude": -2.02207,
+	"population": 19186,
+	"elevation": 0,
+	"dislikes_normalized": 23.272062015514695
+}, {
+	"key": "Cleckheaton",
+	"latitude": 53.72405,
+	"longitude": -1.71294,
+	"population": 27393,
+	"elevation": 0,
+	"dislikes_normalized": 23.111426710697323
+}, {
+	"key": "Dudley",
+	"latitude": 52.5,
+	"longitude": -2.08333,
+	"population": 199059,
+	"elevation": 0,
+	"dislikes_normalized": 23.044434612656676
+}, {
+	"key": "Blyth",
+	"latitude": 55.12708,
+	"longitude": -1.50856,
+	"population": 36355,
+	"elevation": 0,
+	"dislikes_normalized": 22.770105138050518
+}, {
+	"key": "Dundonald",
+	"latitude": 54.59196,
+	"longitude": -5.79803,
+	"population": 13985,
+	"elevation": 0,
+	"dislikes_normalized": 22.618332234824607
+}, {
+	"key": "Omagh",
+	"latitude": 54.6,
+	"longitude": -7.3,
+	"population": 21056,
+	"elevation": 0,
+	"dislikes_normalized": 22.495477853102983
+}, {
+	"key": "Darwen",
+	"latitude": 53.69803,
+	"longitude": -2.46494,
+	"population": 32566,
+	"elevation": 0,
+	"dislikes_normalized": 22.479592721367627
+}, {
+	"key": "Bedworth",
+	"latitude": 52.4791,
+	"longitude": -1.46909,
+	"population": 29981,
+	"elevation": 0,
+	"dislikes_normalized": 22.455305598487897
+}, {
+	"key": "Whittlesey",
+	"latitude": 52.55804,
+	"longitude": -0.13016,
+	"population": 12719,
+	"elevation": 0,
+	"dislikes_normalized": 22.31732875604653
+}, {
+	"key": "East Kilbride",
+	"latitude": 55.76412,
+	"longitude": -4.17669,
+	"population": 74231,
+	"elevation": 0,
+	"dislikes_normalized": 22.313259743879673
+}, {
+	"key": "Hadleigh",
+	"latitude": 51.55269,
+	"longitude": 0.60983,
+	"population": 18300,
+	"elevation": 0,
+	"dislikes_normalized": 21.797365253247357
+}, {
+	"key": "Penrith",
+	"latitude": 54.66579,
+	"longitude": -2.75757,
+	"population": 14793,
+	"elevation": 0,
+	"dislikes_normalized": 21.252471219312575
+}, {
+	"key": "West Wickham",
+	"latitude": 51.36667,
+	"longitude": -0.01667,
+	"population": 14276,
+	"elevation": 0,
+	"dislikes_normalized": 21.07608526677336
+}, {
+	"key": "Dronfield",
+	"latitude": 53.30221,
+	"longitude": -1.47507,
+	"population": 20942,
+	"elevation": 0,
+	"dislikes_normalized": 20.70461088313755
+}, {
+	"key": "Halstead",
+	"latitude": 51.32796,
+	"longitude": 0.13269,
+	"population": 11299,
+	"elevation": 0,
+	"dislikes_normalized": 20.524644007657987
+}, {
+	"key": "Sutton",
+	"latitude": 51.35,
+	"longitude": -0.2,
+	"population": 187600,
+	"elevation": 0,
+	"dislikes_normalized": 20.46191566421725
+}, {
+	"key": "Longfield",
+	"latitude": 51.3969,
+	"longitude": 0.30212,
+	"population": 16808,
+	"elevation": 0,
+	"dislikes_normalized": 20.413044919169675
+}, {
+	"key": "Rawtenstall",
+	"latitude": 53.70076,
+	"longitude": -2.28442,
+	"population": 22114,
+	"elevation": 0,
+	"dislikes_normalized": 20.383475457921392
+}, {
+	"key": "Glossop",
+	"latitude": 53.44325,
+	"longitude": -1.949,
+	"population": 33243,
+	"elevation": 0,
+	"dislikes_normalized": 20.170980942536357
+}, {
+	"key": "Seaham",
+	"latitude": 54.83903,
+	"longitude": -1.34575,
+	"population": 21170,
+	"elevation": 0,
+	"dislikes_normalized": 20.035582930514565
+}, {
+	"key": "Arnold",
+	"latitude": 53,
+	"longitude": -1.13333,
+	"population": 37873,
+	"elevation": 0,
+	"dislikes_normalized": 19.786081161353913
+}, {
+	"key": "Wimborne Minster",
+	"latitude": 50.78333,
+	"longitude": -1.98333,
+	"population": 14884,
+	"elevation": 0,
+	"dislikes_normalized": 19.303311298979022
+}, {
+	"key": "Colne",
+	"latitude": 53.85713,
+	"longitude": -2.16851,
+	"population": 20118,
+	"elevation": 0,
+	"dislikes_normalized": 19.26363616213719
+}, {
+	"key": "Haydock",
+	"latitude": 53.46723,
+	"longitude": -2.68166,
+	"population": 17333,
+	"elevation": 0,
+	"dislikes_normalized": 19.262288542342855
+}, {
+	"key": "Harwich",
+	"latitude": 51.94194,
+	"longitude": 1.28437,
+	"population": 20578,
+	"elevation": 0,
+	"dislikes_normalized": 19.176642005060977
+}, {
+	"key": "Baildon",
+	"latitude": 53.84711,
+	"longitude": -1.78785,
+	"population": 15710,
+	"elevation": 0,
+	"dislikes_normalized": 18.958123662944892
+}, {
+	"key": "Barnham",
+	"latitude": 50.8312,
+	"longitude": -0.63789,
+	"population": 11881,
+	"elevation": 0,
+	"dislikes_normalized": 18.653389764281634
+}, {
+	"key": "Midsomer Norton",
+	"latitude": 51.28567,
+	"longitude": -2.48591,
+	"population": 10458,
+	"elevation": 0,
+	"dislikes_normalized": 18.629280232501273
+}, {
+	"key": "Reigate",
+	"latitude": 51.23736,
+	"longitude": -0.20582,
+	"population": 52123,
+	"elevation": 0,
+	"dislikes_normalized": 18.609344605102635
+}, {
+	"key": "Guisborough",
+	"latitude": 54.53478,
+	"longitude": -1.05606,
+	"population": 17569,
+	"elevation": 0,
+	"dislikes_normalized": 18.46969342389517
+}, {
+	"key": "Chalfont Saint Peter",
+	"latitude": 51.60885,
+	"longitude": -0.55618,
+	"population": 20059,
+	"elevation": 0,
+	"dislikes_normalized": 18.205262855393336
+}, {
+	"key": "Hastings",
+	"latitude": 50.85519,
+	"longitude": 0.57292,
+	"population": 89100,
+	"elevation": 0,
+	"dislikes_normalized": 18.145750545588882
+}, {
+	"key": "Esher",
+	"latitude": 51.36969,
+	"longitude": -0.36693,
+	"population": 52392,
+	"elevation": 0,
+	"dislikes_normalized": 17.88952710115236
+}, {
+	"key": "Fraserburgh",
+	"latitude": 57.68744,
+	"longitude": -2.01844,
+	"population": 12249,
+	"elevation": 0,
+	"dislikes_normalized": 17.85560066841473
+}, {
+	"key": "Gourock",
+	"latitude": 55.96157,
+	"longitude": -4.81789,
+	"population": 11390,
+	"elevation": 0,
+	"dislikes_normalized": 17.327285460396176
+}, {
+	"key": "Cheshunt",
+	"latitude": 51.7002,
+	"longitude": -0.03026,
+	"population": 57374,
+	"elevation": 0,
+	"dislikes_normalized": 17.05629452727584
+}, {
+	"key": "Strabane",
+	"latitude": 54.82373,
+	"longitude": -7.46916,
+	"population": 14198,
+	"elevation": 0,
+	"dislikes_normalized": 16.953217740523844
+}, {
+	"key": "Llantwit Major",
+	"latitude": 51.4107,
+	"longitude": -3.48632,
+	"population": 13514,
+	"elevation": 0,
+	"dislikes_normalized": 16.865307030723265
+}, {
+	"key": "Rosyth",
+	"latitude": 56.03689,
+	"longitude": -3.438,
+	"population": 12003,
+	"elevation": 0,
+	"dislikes_normalized": 16.79549070856093
+}, {
+	"key": "Barnoldswick",
+	"latitude": 53.91711,
+	"longitude": -2.18705,
+	"population": 11101,
+	"elevation": 0,
+	"dislikes_normalized": 16.75006273523855
+}, {
+	"key": "Bedlington",
+	"latitude": 55.13061,
+	"longitude": -1.59319,
+	"population": 16831,
+	"elevation": 0,
+	"dislikes_normalized": 16.732239802218196
+}, {
+	"key": "Alsager",
+	"latitude": 53.09617,
+	"longitude": -2.30649,
+	"population": 14494,
+	"elevation": 0,
+	"dislikes_normalized": 16.46661148229418
+}, {
+	"key": "Bletchley",
+	"latitude": 51.99334,
+	"longitude": -0.73471,
+	"population": 50193,
+	"elevation": 0,
+	"dislikes_normalized": 16.284129059958836
+}, {
+	"key": "Great Harwood",
+	"latitude": 53.78512,
+	"longitude": -2.40865,
+	"population": 11467,
+	"elevation": 0,
+	"dislikes_normalized": 16.187749040436202
+}, {
+	"key": "Golborne",
+	"latitude": 53.47693,
+	"longitude": -2.59651,
+	"population": 24021,
+	"elevation": 0,
+	"dislikes_normalized": 16.069586068483275
+}, {
+	"key": "Flitwick",
+	"latitude": 52.00338,
+	"longitude": -0.49472,
+	"population": 12983,
+	"elevation": 0,
+	"dislikes_normalized": 15.787565032722938
+}, {
+	"key": "Buxton",
+	"latitude": 53.25741,
+	"longitude": -1.90982,
+	"population": 21300,
+	"elevation": 0,
+	"dislikes_normalized": 15.714586231533074
+}, {
+	"key": "Immingham",
+	"latitude": 53.61239,
+	"longitude": -0.22219,
+	"population": 11337,
+	"elevation": 0,
+	"dislikes_normalized": 15.442806843832589
+}, {
+	"key": "Larne",
+	"latitude": 54.85,
+	"longitude": -5.81667,
+	"population": 18421,
+	"elevation": 0,
+	"dislikes_normalized": 15.374039074192417
+}, {
+	"key": "Broadstone",
+	"latitude": 50.75717,
+	"longitude": -1.99406,
+	"population": 10256,
+	"elevation": 0,
+	"dislikes_normalized": 15.012773853711263
+}, {
+	"key": "Nailsea",
+	"latitude": 51.43239,
+	"longitude": -2.75847,
+	"population": 16537,
+	"elevation": 0,
+	"dislikes_normalized": 14.964294417020138
+}, {
+	"key": "Briton Ferry",
+	"latitude": 51.63106,
+	"longitude": -3.81898,
+	"population": 35179,
+	"elevation": 0,
+	"dislikes_normalized": 14.933954212905396
+}, {
+	"key": "Frimley",
+	"latitude": 51.31667,
+	"longitude": -0.74544,
+	"population": 12739,
+	"elevation": 0,
+	"dislikes_normalized": 14.88336992394472
+}, {
+	"key": "Pinxton",
+	"latitude": 53.09062,
+	"longitude": -1.31767,
+	"population": 14357,
+	"elevation": 0,
+	"dislikes_normalized": 14.719855873493483
+}, {
+	"key": "Market Deeping",
+	"latitude": 52.67654,
+	"longitude": -0.31629,
+	"population": 13891,
+	"elevation": 0,
+	"dislikes_normalized": 14.593749193009316
+}, {
+	"key": "Ramsbottom",
+	"latitude": 53.64789,
+	"longitude": -2.31683,
+	"population": 17738,
+	"elevation": 0,
+	"dislikes_normalized": 14.416447388488761
+}, {
+	"key": "Tredegar",
+	"latitude": 51.77251,
+	"longitude": -3.24679,
+	"population": 14966,
+	"elevation": 0,
+	"dislikes_normalized": 14.319751465574301
+}, {
+	"key": "Denton",
+	"latitude": 53.45678,
+	"longitude": -2.11822,
+	"population": 27464,
+	"elevation": 0,
+	"dislikes_normalized": 14.280564332990139
+}, {
+	"key": "Chorleywood",
+	"latitude": 51.65472,
+	"longitude": -0.51404,
+	"population": 11917,
+	"elevation": 0,
+	"dislikes_normalized": 14.067123845766039
+}, {
+	"key": "Todmorden",
+	"latitude": 53.71434,
+	"longitude": -2.09701,
+	"population": 11812,
+	"elevation": 0,
+	"dislikes_normalized": 13.897479809351381
+}, {
+	"key": "Royal Tunbridge Wells",
+	"latitude": 51.13321,
+	"longitude": 0.26256,
+	"population": 61075,
+	"elevation": 0,
+	"dislikes_normalized": 13.889592615364403
+}, {
+	"key": "Radcliffe",
+	"latitude": 53.56178,
+	"longitude": -2.32455,
+	"population": 34239,
+	"elevation": 0,
+	"dislikes_normalized": 13.736600573259043
+}, {
+	"key": "Acton",
+	"latitude": 51.50901,
+	"longitude": -0.2762,
+	"population": 53689,
+	"elevation": 0,
+	"dislikes_normalized": 13.717931176028824
+}, {
+	"key": "Helensburgh",
+	"latitude": 56.00614,
+	"longitude": -4.72648,
+	"population": 14108,
+	"elevation": 0,
+	"dislikes_normalized": 13.568386602834961
+}, {
+	"key": "Aldridge",
+	"latitude": 52.60549,
+	"longitude": -1.91715,
+	"population": 16008,
+	"elevation": 0,
+	"dislikes_normalized": 13.155879316274998
+}, {
+	"key": "Kirkham",
+	"latitude": 53.78244,
+	"longitude": -2.87189,
+	"population": 10603,
+	"elevation": 0,
+	"dislikes_normalized": 13.140140773871867
+}, {
+	"key": "Formby",
+	"latitude": 53.55838,
+	"longitude": -3.06999,
+	"population": 24225,
+	"elevation": 0,
+	"dislikes_normalized": 13.139850914597275
+}, {
+	"key": "West Bromwich",
+	"latitude": 52.51868,
+	"longitude": -1.9945,
+	"population": 135618,
+	"elevation": 0,
+	"dislikes_normalized": 13.135627056016068
+}, {
+	"key": "Syston",
+	"latitude": 52.68333,
+	"longitude": -1.06667,
+	"population": 11508,
+	"elevation": 0,
+	"dislikes_normalized": 13.120967501785968
+}, {
+	"key": "Saltcoats",
+	"latitude": 55.63616,
+	"longitude": -4.78588,
+	"population": 10949,
+	"elevation": 0,
+	"dislikes_normalized": 12.993740699073163
+}, {
+	"key": "Shirebrook",
+	"latitude": 53.20333,
+	"longitude": -1.21336,
+	"population": 10644,
+	"elevation": 0,
+	"dislikes_normalized": 12.911791227918796
+}, {
+	"key": "Rhondda",
+	"latitude": 51.65896,
+	"longitude": -3.44885,
+	"population": 59450,
+	"elevation": 0,
+	"dislikes_normalized": 12.821516173901776
+}, {
+	"key": "Felixstowe",
+	"latitude": 51.96375,
+	"longitude": 1.3511,
+	"population": 29349,
+	"elevation": 0,
+	"dislikes_normalized": 12.731744440938165
+}, {
+	"key": "Tynemouth",
+	"latitude": 55.01788,
+	"longitude": -1.42559,
+	"population": 17436,
+	"elevation": 0,
+	"dislikes_normalized": 12.496400712764215
+}, {
+	"key": "Waltham Abbey",
+	"latitude": 51.687,
+	"longitude": -0.00421,
+	"population": 18069,
+	"elevation": 0,
+	"dislikes_normalized": 12.273422408740352
+}, {
+	"key": "Carnoustie",
+	"latitude": 56.50263,
+	"longitude": -2.7053,
+	"population": 10500,
+	"elevation": 0,
+	"dislikes_normalized": 12.191286104279467
+}, {
+	"key": "Swanage",
+	"latitude": 50.60923,
+	"longitude": -1.9626,
+	"population": 11344,
+	"elevation": 0,
+	"dislikes_normalized": 12.174908666724942
+}, {
+	"key": "Cumbernauld",
+	"latitude": 55.94685,
+	"longitude": -3.99051,
+	"population": 49392,
+	"elevation": 0,
+	"dislikes_normalized": 12.155295825044288
+}, {
+	"key": "Maghull",
+	"latitude": 53.51619,
+	"longitude": -2.94117,
+	"population": 22225,
+	"elevation": 0,
+	"dislikes_normalized": 11.934416883911073
+}, {
+	"key": "Peterhead",
+	"latitude": 57.50584,
+	"longitude": -1.79806,
+	"population": 17627,
+	"elevation": 0,
+	"dislikes_normalized": 11.895773668354746
+}, {
+	"key": "Newton Mearns",
+	"latitude": 55.77334,
+	"longitude": -4.33339,
+	"population": 23808,
+	"elevation": 0,
+	"dislikes_normalized": 11.68794721600067
+}, {
+	"key": "Irlam",
+	"latitude": 53.44253,
+	"longitude": -2.42323,
+	"population": 19442,
+	"elevation": 0,
+	"dislikes_normalized": 11.60874403539005
+}, {
+	"key": "Guiseley",
+	"latitude": 53.87561,
+	"longitude": -1.71232,
+	"population": 21000,
+	"elevation": 0,
+	"dislikes_normalized": 11.569277046254161
+}, {
+	"key": "Kempston",
+	"latitude": 52.11599,
+	"longitude": -0.50044,
+	"population": 19873,
+	"elevation": 0,
+	"dislikes_normalized": 11.269275830821389
+}, {
+	"key": "Eastwood",
+	"latitude": 53,
+	"longitude": -1.3,
+	"population": 18612,
+	"elevation": 0,
+	"dislikes_normalized": 10.939386166464953
+}, {
+	"key": "Ryton",
+	"latitude": 52.61667,
+	"longitude": -2.35,
+	"population": 16093,
+	"elevation": 0,
+	"dislikes_normalized": 10.821900457857193
+}, {
+	"key": "Churchdown",
+	"latitude": 51.87739,
+	"longitude": -2.17087,
+	"population": 13287,
+	"elevation": 0,
+	"dislikes_normalized": 10.414734721191797
+}, {
+	"key": "Hawarden",
+	"latitude": 53.18478,
+	"longitude": -3.02578,
+	"population": 25513,
+	"elevation": 0,
+	"dislikes_normalized": 10.338256564498334
+}, {
+	"key": "Port Glasgow",
+	"latitude": 55.93464,
+	"longitude": -4.6895,
+	"population": 15543,
+	"elevation": 0,
+	"dislikes_normalized": 10.290678690052278
+}, {
+	"key": "Heswall",
+	"latitude": 53.32733,
+	"longitude": -3.09648,
+	"population": 30065,
+	"elevation": 0,
+	"dislikes_normalized": 10.28019636621675
+}, {
+	"key": "Hythe",
+	"latitude": 50.86004,
+	"longitude": -1.40162,
+	"population": 20036,
+	"elevation": 0,
+	"dislikes_normalized": 10.174448773166386
+}, {
+	"key": "Bramhall",
+	"latitude": 53.35801,
+	"longitude": -2.16539,
+	"population": 25506,
+	"elevation": 0,
+	"dislikes_normalized": 10.133061417678842
+}, {
+	"key": "Brownhills",
+	"latitude": 52.63333,
+	"longitude": -1.93333,
+	"population": 20308,
+	"elevation": 0,
+	"dislikes_normalized": 10.015303902675038
+}, {
+	"key": "Cheadle Hulme",
+	"latitude": 53.3761,
+	"longitude": -2.1897,
+	"population": 28952,
+	"elevation": 0,
+	"dislikes_normalized": 9.81622949454669
+}, {
+	"key": "Biggin Hill",
+	"latitude": 51.31329,
+	"longitude": 0.03433,
+	"population": 13535,
+	"elevation": 0,
+	"dislikes_normalized": 9.722007613175181
+}, {
+	"key": "Poynton",
+	"latitude": 53.35,
+	"longitude": -2.11667,
+	"population": 14351,
+	"elevation": 0,
+	"dislikes_normalized": 9.634007083591712
+}, {
+	"key": "Staveley",
+	"latitude": 53.26667,
+	"longitude": -1.35,
+	"population": 25719,
+	"elevation": 0,
+	"dislikes_normalized": 9.470313955265203
+}, {
+	"key": "Haslingden",
+	"latitude": 53.70326,
+	"longitude": -2.32382,
+	"population": 15204,
+	"elevation": 0,
+	"dislikes_normalized": 9.449552696500481
+}, {
+	"key": "Prestwick",
+	"latitude": 55.48333,
+	"longitude": -4.61667,
+	"population": 15401,
+	"elevation": 0,
+	"dislikes_normalized": 9.37973526137654
+}, {
+	"key": "Ewell",
+	"latitude": 51.34948,
+	"longitude": -0.2494,
+	"population": 39994,
+	"elevation": 0,
+	"dislikes_normalized": 8.96935697317753
+}, {
+	"key": "Harold Wood",
+	"latitude": 51.59462,
+	"longitude": 0.23294,
+	"population": 12443,
+	"elevation": 0,
+	"dislikes_normalized": 8.634147754099201
+}, {
+	"key": "Failsworth",
+	"latitude": 53.50484,
+	"longitude": -2.16568,
+	"population": 20555,
+	"elevation": 0,
+	"dislikes_normalized": 8.612345128692773
+}, {
+	"key": "Eccles",
+	"latitude": 53.48333,
+	"longitude": -2.33333,
+	"population": 37275,
+	"elevation": 0,
+	"dislikes_normalized": 8.533833138992188
+}, {
+	"key": "Bonnyrigg",
+	"latitude": 55.87329,
+	"longitude": -3.1051,
+	"population": 14694,
+	"elevation": 0,
+	"dislikes_normalized": 7.844119717536602
+}, {
+	"key": "Chipping Sodbury",
+	"latitude": 51.53813,
+	"longitude": -2.39379,
+	"population": 36108,
+	"elevation": 0,
+	"dislikes_normalized": 7.659129371889449
+}, {
+	"key": "Bexley",
+	"latitude": 51.44162,
+	"longitude": 0.14866,
+	"population": 228000,
+	"elevation": 0,
+	"dislikes_normalized": 7.559486985538672
+}, {
+	"key": "Bootle",
+	"latitude": 53.46667,
+	"longitude": -3.01667,
+	"population": 57791,
+	"elevation": 0,
+	"dislikes_normalized": 7.069547449178917
+}, {
+	"key": "Morley",
+	"latitude": 53.74013,
+	"longitude": -1.59877,
+	"population": 57385,
+	"elevation": 0,
+	"dislikes_normalized": 6.874944710971176
+}, {
+	"key": "Brixton",
+	"latitude": 51.46593,
+	"longitude": -0.10652,
+	"population": 66300,
+	"elevation": 0,
+	"dislikes_normalized": 6.648194282735432
+}, {
+	"key": "Tyldesley",
+	"latitude": 53.51393,
+	"longitude": -2.46754,
+	"population": 35932,
+	"elevation": 0,
+	"dislikes_normalized": 6.499119830750026
+}, {
+	"key": "Bearsden",
+	"latitude": 55.91536,
+	"longitude": -4.33279,
+	"population": 27839,
+	"elevation": 0,
+	"dislikes_normalized": 6.387298555122976
+}, {
+	"key": "Westhoughton",
+	"latitude": 53.54899,
+	"longitude": -2.52464,
+	"population": 22994,
+	"elevation": 0,
+	"dislikes_normalized": 6.118106804914683
+}, {
+	"key": "Islington",
+	"latitude": 51.53622,
+	"longitude": -0.10304,
+	"population": 319143,
+	"elevation": 0,
+	"dislikes_normalized": 4.194918276647341
+}, {
+	"key": "High Peak",
+	"latitude": 53.36797,
+	"longitude": -1.84536,
+	"population": 92600,
+	"elevation": 0,
+	"dislikes_normalized": 3.8149265232935976
+}, {
+	"key": "Kidsgrove",
+	"latitude": 53.08691,
+	"longitude": -2.23777,
+	"population": 29480,
+	"elevation": 0,
+	"dislikes_normalized": 3.7856710311881754
+}, {
+	"key": "Long Eaton",
+	"latitude": 52.89855,
+	"longitude": -1.27136,
+	"population": 47898,
+	"elevation": 0,
+	"dislikes_normalized": 3.629334785336811
+}, {
+	"key": "Kingswood",
+	"latitude": 51.45278,
+	"longitude": -2.50833,
+	"population": 64793,
+	"elevation": 0,
+	"dislikes_normalized": 3.4542135362948754
+}]

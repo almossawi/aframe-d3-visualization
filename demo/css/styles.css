@@ -1,0 +1,154 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  background-color: #fff;
+}
+
+.loading {
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  opacity: 0;
+  position: absolute;
+  background-color: red;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background: url(../images/bg_light.png);
+  opacity: 0;
+}
+
+.camera {
+  right: 0;
+  margin: 30px;
+  color: #666;
+  position: absolute;
+  top: 0;
+  z-index: 3;
+  cursor: pointer;
+}
+
+a-scene {
+  opacity: 0.9;
+  z-index: 3;
+}
+
+p {
+  font-family: 'Fira Sans';
+  line-height: 24px;
+}
+
+.a-enter-vr {
+  font-size: 0.8rem !important;
+}
+
+.a-enter-vr-modal p {
+  line-height: 16px !important;
+  font-size: 0.8rem !important;
+}
+
+.a-enter-vr-modal {
+  height: 50px !important;
+}
+
+h1 {
+  font-family: 'Fira Sans';
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.card {
+  color: black;
+  font-family: 'Fira Sans';
+  margin: 50px 10px 0 40px;
+  padding: 0 10px 0 10px;
+  position: absolute;
+  width: 90%;
+  max-width: 450px;
+  z-index: 3;
+  text-shadow:
+    -1px -1px 0 #e7e7e7,
+    1px -1px 0 #e7e7e7,
+    -1px 1px 0 #e7e7e7,
+    1px 1px 0 #e7e7e7;
+}
+
+.contour-plot {
+  border: 1px solid #1a1a1a;
+  height: 316px;
+  left: 0;
+  margin: 10px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 211px;
+  z-index: 3;
+}
+
+.isoline {
+  fill: none;
+}
+
+g.contours path {
+  fill: #16214c;
+  stroke: #16214c;
+}
+
+g.map {
+  opacity: 1;
+}
+
+g.map path {
+  fill: #0d0d0d;
+  stroke: black;
+  stroke-width: 0.1;
+}
+
+rect.back {
+  opacity: 0.3;
+}
+
+.arrow {
+  transform-origin: 50% 50%;
+}
+
+.key {
+  font-family: Monaco, 'Lucida Console', 'Fira Sans';
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #585757;
+  padding: 3px 4px 3px 4px;
+  font-size: 0.8rem;
+  text-shadow: none;
+}
+
+.hide {
+  display: none !important;
+}
+
+@media screen and (min-width: 0px) and (max-width: 720px) {
+  .hide-on-mobile {
+    display: none;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .card {
+    font-size: 0.8rem;
+    margin: 10px 0 0 0;
+  }
+
+  p {
+    line-height: 22px;
+  }
+}

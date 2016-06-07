@@ -1,0 +1,91 @@
+   
+.anchor i {
+    color: #525151;
+    font-size: 12px;
+}
+
+a, a:active, a:link, a:visited {
+    color: #3b3b3b;
+    text-decoration: underline;
+}
+
+.footer {
+    font-size: 14px;
+    font-style: italic;
+    opacity: 0.6;
+}
+
+.high-top {
+    padding-top: 70px;
+}
+
+html, body {
+    background: #fff;
+    font: 13px;
+    font-family: 'Old Standard TT', 'PT Serif', Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    clear: both;
+    color: black;
+    font-size: 38px;
+    font-style: italic;
+    font-weight: 300;
+    margin: 40px 0 40px 0;
+    padding: 0;
+    text-align: center;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+}
+
+.link-text {
+    cursor: pointer;
+    fill: #ccc;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 11px;
+}
+
+.link-text.active {
+    fill: #4e4e4e;    
+}
+
+.link.active {
+    stroke:  #4e4e4e;
+}
+
+.main-container {
+    margin: 0 auto 50px auto;
+    max-width: 560px;
+    width: 90%;
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+    opacity: 0.9;
+    text-indent: 50px;
+}
+
+p.no-indent {
+    text-indent: 0;
+}
+
+sup, sub {
+    font-size: 13px;
+    position: relative;
+    top: -0.4em;
+    vertical-align: baseline;
+}
+
+sub {
+    top: 0.4em;
+}
+
+.underline {
+    border-bottom: 1px solid #ccc;
+}
